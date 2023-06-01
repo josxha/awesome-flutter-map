@@ -23,7 +23,7 @@ class MarkdownService {
       '',
       '### $sectionName',
       '',
-      '| Name | Links | License | Version | pub.dev | Description |',
+      '| Name | Links | Version | Last update | Meta | Description |',
       '|--|--|--|--|--|--|',
     ]);
   }
@@ -32,8 +32,8 @@ class MarkdownService {
     final homepageIsGithub = data.homepage?.contains('://github.com/') ?? false;
     lines.add('| ${data.name} '
         '| [pub.dev](https://pub.dev/packages/${data.name}) [${homepageIsGithub ? 'GitHub' : 'Homepage'}](${data.homepage}) '
-        '| ${data.lastUpdate.inDays} days ago '
         '| ${data.version} '
+        '| ${data.lastUpdate.inDays} days ago '
         '| ![Pub Likes](https://img.shields.io/pub/likes/${data.name}) ![Pub Points](https://img.shields.io/pub/points/${data.name}) ![Pub Popularity](https://img.shields.io/pub/popularity/${data.name}) '
         '| ${data.description} |');
   }
