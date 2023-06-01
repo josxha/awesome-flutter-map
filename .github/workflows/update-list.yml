@@ -12,8 +12,10 @@ jobs:
       - name: Install dart
         uses: dart-lang/setup-dart@v1
       - name: Install dart dependencies
+        working-directory: updater
         run: dart pub get
       - name: Run dart project
+        working-directory: updater
         run: dart lib/update_list.dart
       - name: Check difference
         run: |

@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:awesome_flutter_map/package_data.dart';
 
 class MarkdownService {
-  static final file = File('README.md');
+  static final file = File('..${Platform.pathSeparator}README.md');
   final List<String> lines;
 
   const MarkdownService._(this.lines);
