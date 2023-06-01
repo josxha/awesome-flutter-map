@@ -1,6 +1,6 @@
 on:
   push: { main }
-  dispatch_workflow:
+  workflow_dispatch:
 
 jobs:
   update:
