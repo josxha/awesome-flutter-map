@@ -1,0 +1,29 @@
+on:
+  push: { main }
+  dispatch_workflow:
+
+jobs:
+  update:
+    name: Update list
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout git repository
+        uses: actions/checkout@v2
+      - name: Install dart
+        uses: dart-lang/setup-dart@v1
+      - name: Install dart dependencies
+        run: dart pub get
+      - name: Run dart project
+        run: dart update_list.dart
+      - name: Check difference
+        run: |
+          status=$(git status -s .) && \
+          echo $status && \
+          echo "GIT_STATUS=${status//$'\n'/\\n}" >> $GITHUB_ENV
+      - name: Push changes
+        if: "contains(env.GIT_STATUS, 'pubspec')"
+        run: |
+          git config --global user.email "action@github.com" && \
+          git config --global user.name "Github CI" && \
+          git commit -a -m "update list" && \
+          git push

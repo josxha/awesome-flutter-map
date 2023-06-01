@@ -1,0 +1,29 @@
+#include: package:flutter_lints/flutter.yaml
+include: package:total_lints/app.yaml
+
+linter:
+  rules:
+    avoid_types_on_closure_parameters: true
+    omit_local_variable_types: true
+    use_key_in_widget_constructors: true
+    avoid_positional_boolean_parameters: false
+    always_use_package_imports: true
+    avoid_relative_lib_imports: true
+    prefer_relative_imports: false
+    avoid_catches_without_on_clauses: false
+    avoid_multiple_declarations_per_line: true
+    avoid_double_and_int_checks: false # my PrefService works like that, lint exists for javascript
+    prefer_foreach: false
+    flutter_style_todos: false
+    use_build_context_synchronously: false # lint: Dont use BuildContext across async gaps
+
+    ### the following lint rules are temporary, I need to change my code to be able to activate them
+    discarded_futures: false # e.g. my PrefService works like that
+    unawaited_futures: false # e.g. my PrefService works like that
+    unnecessary_lambdas: false # changes functionality
+    avoid_dynamic_calls: false
+    avoid_print: false # I want to use a logger at some point
+    sort_pub_dependencies: false # no automatic fix
+    avoid_catching_errors: false # need to change my code, Exception are Runtime, Error are implementation mistakes
+    parameter_assignments: false # I'm using it in BaseApiClient for forceUpdate
+    lines_longer_than_80_chars: false # lines get shorter after the project is better structured
