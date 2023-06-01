@@ -4,6 +4,8 @@ This is a list of plugins and other packages that are within the [flutter_map](h
 ecosystem.
 [flutter_map](https://pub.dev/packages/flutter_map) is a mapping package for Flutter, based off of 'leaflet.js'.
 
+Is a package missing? Add its name to [list_data.yml](list_data.yml) and open a pull request.
+
 ### Markers, polylines and polygons
 
 | Name | Links | Version | Last update | Meta | Description |
