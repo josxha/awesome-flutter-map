@@ -23,7 +23,7 @@ jobs:
           echo $status && \
           echo "GIT_STATUS=${status//$'\n'/\\n}" >> $GITHUB_ENV
       - name: Push changes
-        if: "contains(env.GIT_STATUS, 'pubspec')"
+        if: "contains(env.GIT_STATUS, 'README.md')"
         run: |
           git config --global user.email "action@github.com" && \
           git config --global user.name "Github CI" && \

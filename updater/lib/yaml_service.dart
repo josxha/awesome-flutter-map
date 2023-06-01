@@ -14,8 +14,10 @@ class YamlService {
     final parsed = <String, List<String>>{};
     for (final category in yaml.values) {
       final categoryName = category['name'];
-      final YamlList packages = category['entries'];
-      parsed[categoryName] = packages.toList().cast<String>();
+      final YamlList yamlList = category['entries'];
+      final packages = parsed[categoryName] = yamlList.toList().cast<String>();
+      packages.sort((a, b) => a.compareTo(b));
+      parsed[categoryName] = packages;
     }
     return YamlService._(parsed);
   }

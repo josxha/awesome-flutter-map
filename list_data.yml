@@ -38,5 +38,6 @@ misc:
     - flutter_map_animations
     - open_location_picker
     - map_controller_plus
+    - flutter_map_tile_caching
     - longpress_popup
     - flutter_map_toolkit
