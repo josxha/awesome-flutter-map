@@ -29,13 +29,21 @@ class MarkdownService {
   }
 
   void addPackage(PackageData data) {
-    final homepageIsGithub = data.homepage?.contains('://github.com/') ?? false;
-    lines.add('| ${data.name} '
-        '| [pub.dev](https://pub.dev/packages/${data.name}) [${homepageIsGithub ? 'GitHub' : 'Homepage'}](${data.homepage}) '
-        '| ${data.version} '
-        '| ${data.lastUpdate.inDays} days ago '
-        '| ![Pub Likes](https://img.shields.io/pub/likes/${data.name}) ![Pub Points](https://img.shields.io/pub/points/${data.name}) ![Pub Popularity](https://img.shields.io/pub/popularity/${data.name}) '
-        '| ${data.description} |');
+    final hasHomepage = data.homepage != null;
+    final urlIsGitHub = data.homepage?.contains('://github.com/') ?? false;
+    var line = '| ${data.name} ';
+    line += '| [pub.dev](https://pub.dev/packages/${data.name}) ';
+    if (hasHomepage) {
+      line += '[${urlIsGitHub ? 'GitHub' : 'Homepage'}](${data.homepage}) ';
+    }
+    line += '| ${data.version} ';
+    line += '| ${data.lastUpdate.inDays} days ago ';
+    line += '| ![Pub Likes](https://img.shields.io/pub/likes/${data.name}) ';
+    line += '![Pub Points](https://img.shields.io/pub/points/${data.name}) ';
+    line +=
+        '![Pub Popularity](https://img.shields.io/pub/popularity/${data.name}) ';
+    line += '| ${data.description} |';
+    lines.add(line);
   }
 
   Future<void> save() async {
