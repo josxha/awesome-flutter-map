@@ -1,3 +1,4 @@
+name: Update list
 on:
   push: { main }
   workflow_dispatch:
