@@ -175,7 +175,7 @@ lat_lon_grid_plugin: ^0.2.7
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/lat_lon_grid_plugin)  [GitHub](https://github.com/matthiasdittmer/lat_lon_grid_plugin) | >=3.0.0 |
+| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/lat_lon_grid_plugin)  [GitHub](https://github.com/matthiasdittmer/lat_lon_grid_plugin)  [GitHub](https://github.com/matthiasdittmer/lat_lon_grid_plugin) | >=3.0.0 |
 ### vector_map_tiles
 A plugin for `flutter_map` that enables the use of vector tiles.
 
@@ -280,7 +280,7 @@ flutter_map_animations: ^0.4.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations) | ^5.0.0 |
+| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^5.0.0 |
 ### flutter_map_tile_caching
 Plugin for 'flutter_map' providing advanced caching functionality, with ability to download map regions for offline use.
 
@@ -313,7 +313,7 @@ longpress_popup: ^1.5.5
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Sep 13, 2022 | [pub.dev](https://pub.dev/packages/longpress_popup)  [GitHub](https://github.com/ymrabti/fluttermap_markerpopup) | <span style="color:red">^2.2.0 (not latest)</span> |
+| Tue, Sep 13, 2022 | [pub.dev](https://pub.dev/packages/longpress_popup)  [GitHub](https://github.com/ymrabti/fluttermap_markerpopup)  [GitHub](https://github.com/ymrabti/fluttermap_markerpopup) | <span style="color:red">^2.2.0 (not latest)</span> |
 ### map_controller_plus
 A map controller for Flutter map. Manage markers, lines and polygons.
 
@@ -324,7 +324,7 @@ map_controller_plus: ^3.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, May 7, 2023 | [pub.dev](https://pub.dev/packages/map_controller_plus) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Sun, May 7, 2023 | [pub.dev](https://pub.dev/packages/map_controller_plus)  [GitHub](https://github.com/TesteurManiak/map_controller_plus) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### open_location_picker
 FormField to pick one or more locations from open street map
 
