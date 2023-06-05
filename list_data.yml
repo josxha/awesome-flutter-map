@@ -5,35 +5,31 @@ markers_polygons:
     - flutter_map_location_marker
     - flutter_map_marker_popup
     - flutter_map_tappable_polyline
-    - flutter_map_tile_caching
     - flutter_map_arcgis
     - flutter_map_dragmarker
     - flutter_map_geojson
     - flutter_map_radius_cluster
     - flutter_map_animated_marker
-    - flutter_google_location_picker
-    - flutter_map_line_editor
 
-other_layers:
-  name: Other layer plugins
+layers:
+  name: Layers
   entries:
     - vector_map_tiles
     - flutter_map_heatmap
     - lat_lon_grid_plugin
 
-fetch_data:
-  name: Fetch data
+online_service_integration:
+  name: Online service integration
   entries:
     - location_picker_flutter_map
     - flutter_map_directions
-    - flutter_map_tile_caching
     - open_street_map_search_and_pick
     - flutter_open_street_map
     - flutter_map_directions
     - flutter_google_location_picker
 
-misc:
-  name: Miscellaneous
+utility:
+  name: Utility
   entries:
     - flutter_map_animations
     - open_location_picker
@@ -41,3 +37,4 @@ misc:
     - flutter_map_tile_caching
     - longpress_popup
     - flutter_map_toolkit
+    - flutter_map_line_editor

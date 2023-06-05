@@ -27,12 +27,14 @@ class PubDevService {
     }
     return PackageData(
       name: packageName,
-      version: info.version,
+      version: Version.parse(info.version),
       description: info.description,
       homepage: info.latestPubspec.homepage,
       repository: info.latestPubspec.unParsedYaml?['repository'],
       lastUpdate: info.latest.published,
-      flutterMapVersion: dependencyVersion ?? '-',
+      flutterMapVersion: dependencyVersion == null
+          ? null
+          : VersionConstraint.parse(dependencyVersion),
       latestFlutterMapDependency: latestFlutterMapDependency,
     );
   }

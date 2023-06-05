@@ -1,11 +1,13 @@
+import 'package:pub_semver/pub_semver.dart';
+
 class PackageData {
   final String name;
-  final String version;
+  final Version version;
   final String description;
   final String? homepage;
   final String? repository;
   final DateTime lastUpdate;
-  final String flutterMapVersion;
+  final VersionConstraint? flutterMapVersion;
   final bool? latestFlutterMapDependency;
 
   const PackageData({

@@ -19,11 +19,16 @@ class MarkdownService {
     return MarkdownService._(header);
   }
 
+  void removeSectionIfEmpty() {
+    if (lines.last.startsWith('## ')) {
+      lines.removeRange(lines.length - 2, lines.length);
+    }
+  }
+
   void addSection(String sectionName) {
     lines.addAll([
       '',
       '## $sectionName',
-      '',
     ]);
   }
 
@@ -50,7 +55,7 @@ class MarkdownService {
     content += '| [pub.dev](${data.pubDevUrl}) ';
     if (data.homepage != null) {
       if (data.homepage!.contains('://github.com/')) {
-        content += ' [GitHub](${data.repository}) ';
+        content += ' [GitHub](${data.homepage}) ';
       } else {
         content += ' [Homepage](${data.homepage}) ';
       }
