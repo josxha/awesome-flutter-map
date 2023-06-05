@@ -3,6 +3,7 @@ class PackageData {
   final String version;
   final String description;
   final String? homepage;
+  final String? repository;
   final DateTime lastUpdate;
   final String flutterMapVersion;
   final bool? latestFlutterMapDependency;
@@ -15,6 +16,7 @@ class PackageData {
     required this.lastUpdate,
     required this.flutterMapVersion,
     required this.latestFlutterMapDependency,
+    required this.repository,
   });
 
   String get pubDevUrl => 'https://pub.dev/packages/$name';

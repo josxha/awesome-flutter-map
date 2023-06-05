@@ -30,6 +30,7 @@ class PubDevService {
       version: info.version,
       description: info.description,
       homepage: info.latestPubspec.homepage,
+      repository: info.latestPubspec.unParsedYaml?['repository'],
       lastUpdate: info.latest.published,
       flutterMapVersion: dependencyVersion ?? '-',
       latestFlutterMapDependency: latestFlutterMapDependency,

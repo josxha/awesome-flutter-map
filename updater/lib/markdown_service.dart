@@ -28,8 +28,6 @@ class MarkdownService {
   }
 
   void addPackage(PackageData data) {
-    final urlIsGitHub = data.homepage?.contains('://github.com/') ?? false;
-
     lines.addAll([
       // name
       '### ${data.name}',
@@ -51,7 +49,17 @@ class MarkdownService {
     var content = '| ${DateFormat.yMMMEd().format(data.lastUpdate)} ';
     content += '| [pub.dev](${data.pubDevUrl}) ';
     if (data.homepage != null) {
-      content += '[${urlIsGitHub ? 'GitHub' : 'Homepage'}](${data.homepage}) ';
+      if (!data.homepage!.contains('://github.com/') &&
+          data.repository == null) {
+        content += ' [GitHub](${data.repository}) ';
+      } else {
+        content += ' [Homepage](${data.homepage}) ';
+      }
+    }
+    if (data.repository != null) {
+      final isGithub = data.repository!.contains('://github.com/');
+      content +=
+          ' [${isGithub ? 'GitHub' : 'Source-code'}](${data.repository}) ';
     }
     if (data.latestFlutterMapDependency == null) {
       content += '| - |';
@@ -59,7 +67,8 @@ class MarkdownService {
       content += '| ${data.flutterMapVersion} |';
     } else {
       // show red text
-      content += '| <span style="color:red">${data.flutterMapVersion}</span> |';
+      content +=
+          '| <span style="color:red">${data.flutterMapVersion} (not latest)</span> |';
     }
     lines.add(content);
   }
