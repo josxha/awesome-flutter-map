@@ -49,14 +49,15 @@ class MarkdownService {
     var content = '| ${DateFormat.yMMMEd().format(data.lastUpdate)} ';
     content += '| [pub.dev](${data.pubDevUrl}) ';
     if (data.homepage != null) {
-      if (!data.homepage!.contains('://github.com/') &&
-          data.repository == null) {
-        content += ' [GitHub](${data.repository}) ';
+      if (data.homepage!.contains('://github.com/')) {
+        if (data.repository == null) {
+          content += ' [GitHub](${data.repository}) ';
+        }
       } else {
         content += ' [Homepage](${data.homepage}) ';
       }
     }
-    if (data.repository != null) {
+    if (data.repository != null && data.repository != data.homepage) {
       final isGithub = data.repository!.contains('://github.com/');
       content +=
           ' [${isGithub ? 'GitHub' : 'Source-code'}](${data.repository}) ';
