@@ -12,7 +12,7 @@ class MarkdownService {
   static Future<MarkdownService> load() async {
     final lines = await file.readAsLines();
     var index = 0;
-    while (!lines[index].startsWith('### ')) {
+    while (!lines[index].startsWith('## ')) {
       index++;
     }
     final header = lines.sublist(0, index - 1);
@@ -22,7 +22,7 @@ class MarkdownService {
   void addSection(String sectionName) {
     lines.addAll([
       '',
-      '### $sectionName',
+      '## $sectionName',
       '',
     ]);
   }
@@ -32,7 +32,7 @@ class MarkdownService {
 
     lines.addAll([
       // name
-      '#### ${data.name}',
+      '### ${data.name}',
       // description
       data.description,
       '',

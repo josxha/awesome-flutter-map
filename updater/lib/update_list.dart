@@ -14,7 +14,6 @@ Future<void> main() async {
       final data = await pubDev.getData(packageName);
       markdown.addPackage(data);
     }
-    break; // TODO remove debug code
   }
   await markdown.save();
 }
