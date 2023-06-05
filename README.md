@@ -40,6 +40,17 @@ flutter_map_location_marker: ^6.0.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Sun, May 7, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | <span style="color:red">^4.0.0 (not latest)</span> |
+### flutter_map_marker_cluster
+A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautiful animated marker clustering functionality for flutter_map.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_marker_cluster) ![Pub Points](https://img.shields.io/pub/points/flutter_map_marker_cluster) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_marker_cluster)
+
+```yaml
+flutter_map_marker_cluster: ^1.1.1
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Wed, May 31, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_cluster)  [GitHub](https://github.com/lpongetti/flutter_map_marker_cluster) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### flutter_map_marker_popup
 A plugin for flutter_map to show a customisable popup Widget when a marker is tapped. Also provides methods to show/hide popups.
 
@@ -51,6 +62,17 @@ flutter_map_marker_popup: ^5.1.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Sun, May 28, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [GitHub](https://github.com/rorystephenson/flutter_map_marker_popup) | <span style="color:red">^4.0.0 (not latest)</span> |
+### flutter_map_radius_cluster
+A marker clustering plugin for flutter_map which displays markers in a given radius.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_radius_cluster) ![Pub Points](https://img.shields.io/pub/points/flutter_map_radius_cluster) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_radius_cluster)
+
+```yaml
+flutter_map_radius_cluster: ^3.0.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, May 30, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_radius_cluster)  [GitHub](https://github.com/rorystephenson/flutter_map_radius_cluster) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### flutter_map_tappable_polyline
 A flutter_map plugin that adds Polyline class with onTap event
 
@@ -64,6 +86,28 @@ flutter_map_tappable_polyline: ^5.0.0
 | Mon, Jun 5, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_tappable_polyline)  [GitHub](https://github.com/OwnWeb/flutter_map_tappable_polyline) | ^5.0.0 |
 
 ## Layers
+### flutter_map_heatmap
+A heatmap plugin for flutter_map
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_heatmap) ![Pub Points](https://img.shields.io/pub/points/flutter_map_heatmap) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_heatmap)
+
+```yaml
+flutter_map_heatmap: ^0.0.3
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Mon, May 8, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | <span style="color:red">^4.0.0 (not latest)</span> |
+### lat_lon_grid_plugin
+Adds a latitude / longitude grid as plugin to the [flutter_map](https://github.com/fleaflet/flutter_map/).
+
+![Pub Likes](https://img.shields.io/pub/likes/lat_lon_grid_plugin) ![Pub Points](https://img.shields.io/pub/points/lat_lon_grid_plugin) ![Pub Popularity](https://img.shields.io/pub/popularity/lat_lon_grid_plugin)
+
+```yaml
+lat_lon_grid_plugin: ^0.2.7
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/lat_lon_grid_plugin)  [Homepage](https://github.com/matthiasdittmer/)  [GitHub](https://github.com/matthiasdittmer/lat_lon_grid_plugin) | >=3.0.0 |
 ### vector_map_tiles
 A plugin for `flutter_map` that enables the use of vector tiles.
 
@@ -76,7 +120,53 @@ vector_map_tiles: ^4.0.0
 | ----------- | ----- | ------------------- |
 | Mon, May 22, 2023 | [pub.dev](https://pub.dev/packages/vector_map_tiles)  [GitHub](https://github.com/greensopinion/flutter-vector-map-tiles) | <span style="color:red">^4.0.0 (not latest)</span> |
 
+## Online service integration
+### flutter_map_directions
+A Flutter project package to show directions path on flutter_map
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_directions) ![Pub Points](https://img.shields.io/pub/points/flutter_map_directions) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_directions)
+
+```yaml
+flutter_map_directions: ^0.0.3
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, May 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_directions)  [GitHub](https://github.com/nkdkhanh46/flutter_map_directions) | <span style="color:red">^4.0.0 (not latest)</span> |
+### flutter_map_directions
+A Flutter project package to show directions path on flutter_map
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_directions) ![Pub Points](https://img.shields.io/pub/points/flutter_map_directions) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_directions)
+
+```yaml
+flutter_map_directions: ^0.0.3
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, May 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_directions)  [GitHub](https://github.com/nkdkhanh46/flutter_map_directions) | <span style="color:red">^4.0.0 (not latest)</span> |
+### location_picker_flutter_map
+Package that provides Place search and Location picker for flutter maps with alot of cusomizations using Open Street Map
+
+![Pub Likes](https://img.shields.io/pub/likes/location_picker_flutter_map) ![Pub Points](https://img.shields.io/pub/points/location_picker_flutter_map) ![Pub Popularity](https://img.shields.io/pub/popularity/location_picker_flutter_map)
+
+```yaml
+location_picker_flutter_map: ^1.2.1
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | <span style="color:red">^4.0.0 (not latest)</span> |
+
 ## Utility
+### flutter_map_animations
+Animation utilities for markers and controls of the flutter_map package.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_animations) ![Pub Points](https://img.shields.io/pub/points/flutter_map_animations) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_animations)
+
+```yaml
+flutter_map_animations: ^0.4.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^5.0.0 |
 ### flutter_map_line_editor
 Line editor class for flutter_map
 
@@ -99,3 +189,14 @@ flutter_map_tile_caching: ^8.0.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Fri, May 5, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | <span style="color:red">^4.0.0 (not latest)</span> |
+### map_controller_plus
+A map controller for Flutter map. Manage markers, lines and polygons.
+
+![Pub Likes](https://img.shields.io/pub/likes/map_controller_plus) ![Pub Points](https://img.shields.io/pub/points/map_controller_plus) ![Pub Popularity](https://img.shields.io/pub/popularity/map_controller_plus)
+
+```yaml
+map_controller_plus: ^3.0.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Sun, May 7, 2023 | [pub.dev](https://pub.dev/packages/map_controller_plus)  [GitHub](https://github.com/TesteurManiak/map_controller_plus) | <span style="color:red">^4.0.0 (not latest)</span> |

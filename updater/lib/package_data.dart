@@ -9,6 +9,7 @@ class PackageData {
   final DateTime lastUpdate;
   final VersionConstraint? flutterMapVersion;
   final bool? latestFlutterMapDependency;
+  final bool discontinued;
 
   const PackageData({
     required this.name,
@@ -18,6 +19,7 @@ class PackageData {
     required this.lastUpdate,
     required this.flutterMapVersion,
     required this.latestFlutterMapDependency,
+    required this.discontinued,
     required this.repository,
   });
 

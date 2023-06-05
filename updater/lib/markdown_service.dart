@@ -53,17 +53,17 @@ class MarkdownService {
     // table content
     var content = '| ${DateFormat.yMMMEd().format(data.lastUpdate)} ';
     content += '| [pub.dev](${data.pubDevUrl}) ';
-    if (data.homepage != null) {
-      if (data.homepage!.contains('://github.com/')) {
+    if (data.homepage != null && data.repository != data.homepage) {
+      if (data.homepage!.contains('://github.com/') &&
+          data.repository == null) {
         content += ' [GitHub](${data.homepage}) ';
       } else {
         content += ' [Homepage](${data.homepage}) ';
       }
     }
-    if (data.repository != null && data.repository != data.homepage) {
+    if (data.repository != null) {
       final isGithub = data.repository!.contains('://github.com/');
-      content +=
-          ' [${isGithub ? 'GitHub' : 'Source-code'}](${data.repository}) ';
+      content += ' [${isGithub ? 'GitHub' : 'Source'}](${data.repository}) ';
     }
     if (data.latestFlutterMapDependency == null) {
       content += '| - |';
