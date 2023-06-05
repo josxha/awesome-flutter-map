@@ -29,7 +29,7 @@ flutter_google_location_picker: ^0.0.3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Fri, Sep 2, 2022 | [pub.dev](https://pub.dev/packages/flutter_google_location_picker)  [Homepage](https://github.com/arsarsars1/flutter_google_location_picker.git) | <span style="color:red">^2.2.0 (not latest)</span> |
+| Fri, Sep 2, 2022 | [pub.dev](https://pub.dev/packages/flutter_google_location_picker)  [GitHub](null) | <span style="color:red">^2.2.0 (not latest)</span> |
 ### flutter_map_animated_marker
 Animated marker for flutter_mapp
 
@@ -40,7 +40,7 @@ flutter_map_animated_marker: ^1.0.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, Feb 27, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animated_marker)  [Homepage](https://github.com/ankiimation/flutter_map_animated_marker) | <span style="color:red">^3.0.0 (not latest)</span> |
+| Mon, Feb 27, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animated_marker)  [GitHub](null) | <span style="color:red">^3.0.0 (not latest)</span> |
 ### flutter_map_arcgis
 Arcgis plugin for flutter map. Features Support unique render, ontap event, ontap with atttributes, geometry types (point, polgyon, polylin)
 
@@ -51,7 +51,7 @@ flutter_map_arcgis: ^2.0.4
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Jul 26, 2022 | [pub.dev](https://pub.dev/packages/flutter_map_arcgis)  [Homepage](https://github.com/khankhulgun/flutter_map_arcgis) | <span style="color:red">^2.1.1 (not latest)</span> |
+| Tue, Jul 26, 2022 | [pub.dev](https://pub.dev/packages/flutter_map_arcgis)  [GitHub](null) | <span style="color:red">^2.1.1 (not latest)</span> |
 ### flutter_map_dragmarker
 Dragmarker class for flutter_map
 
@@ -106,7 +106,7 @@ flutter_map_marker_cluster: ^1.1.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Wed, May 31, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_cluster)  [Homepage](https://github.com/lpongetti/flutter_map_marker_cluster) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Wed, May 31, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_cluster)  [GitHub](null) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### flutter_map_marker_popup
 A plugin for flutter_map to show a customisable popup Widget when a marker is tapped. Also provides methods to show/hide popups.
 
@@ -117,7 +117,7 @@ flutter_map_marker_popup: ^5.1.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, May 28, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [Homepage](https://github.com/rorystephenson/flutter_map_marker_popup) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Sun, May 28, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [GitHub](null) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### flutter_map_radius_cluster
 A marker clustering plugin for flutter_map which displays markers in a given radius.
 
@@ -128,7 +128,7 @@ flutter_map_radius_cluster: ^3.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, May 30, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_radius_cluster)  [Homepage](https://github.com/rorystephenson/flutter_map_radius_cluster) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Tue, May 30, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_radius_cluster)  [GitHub](null) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### flutter_map_tappable_polyline
 A flutter_map plugin that adds Polyline class with onTap event
 
@@ -139,7 +139,7 @@ flutter_map_tappable_polyline: ^5.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, Jun 5, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_tappable_polyline)  [Homepage](https://github.com/OwnWeb/flutter_map_tappable_polyline) | ^5.0.0 |
+| Mon, Jun 5, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_tappable_polyline)  [GitHub](null) | ^5.0.0 |
 ### flutter_map_tile_caching
 Plugin for 'flutter_map' providing advanced caching functionality, with ability to download map regions for offline use.
 
@@ -175,7 +175,7 @@ lat_lon_grid_plugin: ^0.2.7
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/lat_lon_grid_plugin)  [Homepage](https://github.com/matthiasdittmer/)  [GitHub](https://github.com/matthiasdittmer/lat_lon_grid_plugin) | >=3.0.0 |
+| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/lat_lon_grid_plugin)  [GitHub](https://github.com/matthiasdittmer/lat_lon_grid_plugin) | >=3.0.0 |
 ### vector_map_tiles
 A plugin for `flutter_map` that enables the use of vector tiles.
 
@@ -186,7 +186,7 @@ vector_map_tiles: ^4.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, May 22, 2023 | [pub.dev](https://pub.dev/packages/vector_map_tiles)  [Homepage](https://github.com/greensopinion/flutter-vector-map-tiles) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Mon, May 22, 2023 | [pub.dev](https://pub.dev/packages/vector_map_tiles)  [GitHub](null) | <span style="color:red">^4.0.0 (not latest)</span> |
 
 ## Fetch data
 
@@ -200,7 +200,7 @@ flutter_google_location_picker: ^0.0.3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Fri, Sep 2, 2022 | [pub.dev](https://pub.dev/packages/flutter_google_location_picker)  [Homepage](https://github.com/arsarsars1/flutter_google_location_picker.git) | <span style="color:red">^2.2.0 (not latest)</span> |
+| Fri, Sep 2, 2022 | [pub.dev](https://pub.dev/packages/flutter_google_location_picker)  [GitHub](null) | <span style="color:red">^2.2.0 (not latest)</span> |
 ### flutter_map_directions
 A Flutter project package to show directions path on flutter_map
 
@@ -211,7 +211,7 @@ flutter_map_directions: ^0.0.3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, May 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_directions)  [Homepage](https://github.com/nkdkhanh46/flutter_map_directions) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Tue, May 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_directions)  [GitHub](null) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### flutter_map_directions
 A Flutter project package to show directions path on flutter_map
 
@@ -222,7 +222,7 @@ flutter_map_directions: ^0.0.3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, May 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_directions)  [Homepage](https://github.com/nkdkhanh46/flutter_map_directions) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Tue, May 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_directions)  [GitHub](null) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### flutter_map_tile_caching
 Plugin for 'flutter_map' providing advanced caching functionality, with ability to download map regions for offline use.
 
@@ -244,7 +244,7 @@ flutter_open_street_map: ^0.0.3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Jun 21, 2022 | [pub.dev](https://pub.dev/packages/flutter_open_street_map)  [Homepage](https://github.com/MicroProgramer/flutter_open_street_map.git) | <span style="color:red">^1.0.0 (not latest)</span> |
+| Tue, Jun 21, 2022 | [pub.dev](https://pub.dev/packages/flutter_open_street_map)  [GitHub](null) | <span style="color:red">^1.0.0 (not latest)</span> |
 ### location_picker_flutter_map
 Package that provides Place search and Location picker for flutter maps with alot of cusomizations using Open Street Map
 
@@ -255,7 +255,7 @@ location_picker_flutter_map: ^1.2.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [Homepage](https://github.com/Michael-M-aher/location_picker_flutter_map) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](null) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### open_street_map_search_and_pick
 A flutter place search and location picker plugin that uses Open Street Map.
 
@@ -266,7 +266,7 @@ open_street_map_search_and_pick: ^0.0.17
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Wed, May 17, 2023 | [pub.dev](https://pub.dev/packages/open_street_map_search_and_pick)  [Homepage](https://github.com/AbduzZami/open_street_map_search_and_pick.git) | <span style="color:red">^3.0.0 (not latest)</span> |
+| Wed, May 17, 2023 | [pub.dev](https://pub.dev/packages/open_street_map_search_and_pick)  [GitHub](null) | <span style="color:red">^3.0.0 (not latest)</span> |
 
 ## Miscellaneous
 
@@ -280,7 +280,7 @@ flutter_map_animations: ^0.4.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [Homepage](https://github.com/TesteurManiak/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^5.0.0 |
+| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations) | ^5.0.0 |
 ### flutter_map_tile_caching
 Plugin for 'flutter_map' providing advanced caching functionality, with ability to download map regions for offline use.
 
@@ -313,7 +313,7 @@ longpress_popup: ^1.5.5
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Sep 13, 2022 | [pub.dev](https://pub.dev/packages/longpress_popup)  [Homepage](https://github.com/ymrabti)  [GitHub](https://github.com/ymrabti/fluttermap_markerpopup) | <span style="color:red">^2.2.0 (not latest)</span> |
+| Tue, Sep 13, 2022 | [pub.dev](https://pub.dev/packages/longpress_popup)  [GitHub](https://github.com/ymrabti/fluttermap_markerpopup) | <span style="color:red">^2.2.0 (not latest)</span> |
 ### map_controller_plus
 A map controller for Flutter map. Manage markers, lines and polygons.
 
@@ -324,7 +324,7 @@ map_controller_plus: ^3.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, May 7, 2023 | [pub.dev](https://pub.dev/packages/map_controller_plus)  [Homepage](https://github.com/TesteurManiak/map_controller_plus)  [GitHub](https://github.com/TesteurManiak/map_controller_plus) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Sun, May 7, 2023 | [pub.dev](https://pub.dev/packages/map_controller_plus) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### open_location_picker
 FormField to pick one or more locations from open street map
 
@@ -335,4 +335,4 @@ open_location_picker: ^1.0.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, May 28, 2023 | [pub.dev](https://pub.dev/packages/open_location_picker)  [Homepage](https://github.com/mo-ah-dawood/open_location_picker) | <span style="color:red">^2.2.0 (not latest)</span> |
+| Sun, May 28, 2023 | [pub.dev](https://pub.dev/packages/open_location_picker)  [GitHub](null) | <span style="color:red">^2.2.0 (not latest)</span> |
