@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:yaml/yaml.dart';
 
 class YamlService {
-  static final file = File('..${Platform.pathSeparator}list_data.yml');
+  static final file = File('list_data.yml');
   final Map<String, List<String>> data;
 
   const YamlService._(this.data);

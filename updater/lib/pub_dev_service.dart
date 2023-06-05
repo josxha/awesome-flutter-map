@@ -1,18 +1,42 @@
 import 'package:awesome_flutter_map/package_data.dart';
 import 'package:pub_api_client/pub_api_client.dart';
+import 'package:pub_semver/pub_semver.dart';
+import 'package:pubspec/pubspec.dart';
 
 class PubDevService {
-  final _client = PubClient();
+  final PubClient _client;
+  final PubPackage flutterMap;
+
+  PubDevService(this._client, this.flutterMap);
+
+  static Future<PubDevService> load() async {
+    final client = PubClient();
+    final flutterMap = await client.packageInfo('flutter_map');
+    return PubDevService(client, flutterMap);
+  }
 
   Future<PackageData> getData(String packageName) async {
-    final package = await _client.packageInfo(packageName);
-    final now = DateTime.now();
+    final info = await _client.packageInfo(packageName);
+    final flutterMapDependency = info.latestPubspec.dependencies['flutter_map'];
+    final dependencyVersion = flutterMapDependency?.dependencyVersion;
+    bool? latestFlutterMapDependency;
+    if (dependencyVersion != null) {
+      final fmVersion = Version.parse(flutterMap.version);
+      final fmVersionConstraint = VersionConstraint.parse(dependencyVersion);
+      latestFlutterMapDependency = fmVersionConstraint.allows(fmVersion);
+    }
     return PackageData(
       name: packageName,
-      version: package.version,
-      description: package.description,
-      homepage: package.latestPubspec.homepage,
-      lastUpdate: now.difference(package.latest.published),
+      version: info.version,
+      description: info.description,
+      homepage: info.latestPubspec.homepage,
+      lastUpdate: info.latest.published,
+      flutterMapVersion: dependencyVersion ?? '-',
+      latestFlutterMapDependency: latestFlutterMapDependency,
     );
   }
+}
+
+extension DependencyReferenceExt on DependencyReference {
+  String get dependencyVersion => toString().replaceAll('"', '');
 }

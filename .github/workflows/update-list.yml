@@ -16,8 +16,7 @@ jobs:
         working-directory: updater
         run: dart pub get
       - name: Run dart project
-        working-directory: updater
-        run: dart lib/update_list.dart
+        run: dart updater/lib/update_list.dart
       - name: Check difference
         run: |
           status=$(git status -s .) && \
