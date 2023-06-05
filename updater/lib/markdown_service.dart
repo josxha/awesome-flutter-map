@@ -50,9 +50,7 @@ class MarkdownService {
     content += '| [pub.dev](${data.pubDevUrl}) ';
     if (data.homepage != null) {
       if (data.homepage!.contains('://github.com/')) {
-        if (data.repository == null) {
-          content += ' [GitHub](${data.repository}) ';
-        }
+        content += ' [GitHub](${data.repository}) ';
       } else {
         content += ' [Homepage](${data.homepage}) ';
       }
