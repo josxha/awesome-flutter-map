@@ -25,7 +25,6 @@ online_service_integration:
     - flutter_map_directions
     - open_street_map_search_and_pick
     - flutter_open_street_map
-    - flutter_map_directions
     - flutter_google_location_picker
 
 utility:
