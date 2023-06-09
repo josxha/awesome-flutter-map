@@ -156,6 +156,17 @@ flutter_map_animations: ^0.4.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^5.0.0 |
+### flutter_map_cache
+A slim yet powerful caching plugin for flutter_map tile layers.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cache) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cache) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cache)
+
+```yaml
+flutter_map_cache: ^1.0.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Fri, Jun 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [Homepage](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_cache) | ^5.0.0 |
 ### flutter_map_line_editor
 Line editor class for flutter_map
 
