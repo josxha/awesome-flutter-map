@@ -24,11 +24,11 @@ Dragmarker class for flutter_map
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_dragmarker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_dragmarker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_dragmarker)
 
 ```yaml
-flutter_map_dragmarker: ^4.1.3
+flutter_map_dragmarker: ^5.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, May 22, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_dragmarker)  [GitHub](https://github.com/ibrierley/flutter_map_dragmarker) | <span style="color:red">>=3.0.0 <5.0.0 (not latest)</span> |
+| Tue, Jun 13, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_dragmarker)  [GitHub](https://github.com/ibrierley/flutter_map_dragmarker) | >=5.0.0 <6.0.0 |
 ### flutter_map_location_marker
 A flutter map plugin for displaying device current location.
 
@@ -151,11 +151,11 @@ Animation utilities for markers and controls of the flutter_map package.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_animations) ![Pub Points](https://img.shields.io/pub/points/flutter_map_animations) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_animations)
 
 ```yaml
-flutter_map_animations: ^0.4.0
+flutter_map_animations: ^0.4.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^5.0.0 |
+| Tue, Jun 13, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^5.0.0 |
 ### flutter_map_cache
 A slim yet powerful caching plugin for flutter_map tile layers.
 
