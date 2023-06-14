@@ -35,11 +35,11 @@ A flutter map plugin for displaying device current location.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_location_marker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_location_marker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_location_marker)
 
 ```yaml
-flutter_map_location_marker: ^6.0.0
+flutter_map_location_marker: ^7.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, May 7, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Wed, Jun 14, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^5.0.0 |
 ### flutter_map_marker_cluster
 A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautiful animated marker clustering functionality for flutter_map.
 
@@ -168,16 +168,16 @@ flutter_map_cache: ^1.1.0
 | ----------- | ----- | ------------------- |
 | Fri, Jun 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [Homepage](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_cache) | ^5.0.0 |
 ### flutter_map_line_editor
-Line editor class for flutter_map
+A basic Line and Polygon editor for `flutter_map` using drag markers
 
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_line_editor) ![Pub Points](https://img.shields.io/pub/points/flutter_map_line_editor) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_line_editor)
 
 ```yaml
-flutter_map_line_editor: ^4.1.0
+flutter_map_line_editor: ^5.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Thu, May 25, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_line_editor)  [GitHub](https://github.com/ibrierley/flutter_map_line_editor) | - |
+| Tue, Jun 13, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_line_editor)  [GitHub](https://github.com/ibrierley/flutter_map_line_editor) | - |
 ### flutter_map_tile_caching
 Plugin for 'flutter_map' providing advanced caching functionality, with ability to download map regions for offline use.
 
