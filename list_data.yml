@@ -38,3 +38,5 @@ utility:
     - longpress_popup
     - flutter_map_toolkit
     - flutter_map_line_editor
+    - geojson
+    - vector_mbtiles
