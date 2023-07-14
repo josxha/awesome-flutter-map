@@ -35,11 +35,11 @@ A flutter map plugin for displaying device current location.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_location_marker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_location_marker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_location_marker)
 
 ```yaml
-flutter_map_location_marker: ^7.0.1
+flutter_map_location_marker: ^7.0.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Jul 4, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^5.0.0 |
+| Thu, Jul 13, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^5.0.0 |
 ### flutter_map_marker_cluster
 A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautiful animated marker clustering functionality for flutter_map.
 
@@ -92,11 +92,11 @@ A heatmap plugin for flutter_map
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_heatmap) ![Pub Points](https://img.shields.io/pub/points/flutter_map_heatmap) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_heatmap)
 
 ```yaml
-flutter_map_heatmap: ^0.0.4
+flutter_map_heatmap: ^0.0.4+1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Wed, Jul 12, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Fri, Jul 14, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### lat_lon_grid_plugin
 Adds a latitude / longitude grid as plugin to the [flutter_map](https://github.com/fleaflet/flutter_map/).
 
