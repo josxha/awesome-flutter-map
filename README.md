@@ -184,11 +184,11 @@ Plugin for 'flutter_map' providing advanced caching functionality, with ability 
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_tile_caching) ![Pub Points](https://img.shields.io/pub/points/flutter_map_tile_caching) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_tile_caching)
 
 ```yaml
-flutter_map_tile_caching: ^8.0.0
+flutter_map_tile_caching: ^8.0.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Fri, May 5, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Sat, Jul 29, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### geojson
 Utilities to work with geojson data. Parser with a reactive api, search and geofencing
 
