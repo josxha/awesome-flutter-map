@@ -92,11 +92,11 @@ A heatmap plugin for flutter_map
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_heatmap) ![Pub Points](https://img.shields.io/pub/points/flutter_map_heatmap) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_heatmap)
 
 ```yaml
-flutter_map_heatmap: ^0.0.4+1
+flutter_map_heatmap: ^0.0.4+2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Fri, Jul 14, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Wed, Aug 2, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | <span style="color:red">^4.0.0 (not latest)</span> |
 ### lat_lon_grid_plugin
 Adds a latitude / longitude grid as plugin to the [flutter_map](https://github.com/fleaflet/flutter_map/).
 
