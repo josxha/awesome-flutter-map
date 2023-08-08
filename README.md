@@ -138,11 +138,11 @@ Package that provides Place search and Location picker for flutter maps with alo
 ![Pub Likes](https://img.shields.io/pub/likes/location_picker_flutter_map) ![Pub Points](https://img.shields.io/pub/points/location_picker_flutter_map) ![Pub Popularity](https://img.shields.io/pub/popularity/location_picker_flutter_map)
 
 ```yaml
-location_picker_flutter_map: ^1.2.1
+location_picker_flutter_map: ^1.2.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Tue, Aug 8, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | ^5.0.0 |
 
 ## Utility
 ### flutter_map_animations
