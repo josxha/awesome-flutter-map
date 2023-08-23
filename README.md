@@ -127,11 +127,11 @@ A Flutter project package to show directions path on flutter_map
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_directions) ![Pub Points](https://img.shields.io/pub/points/flutter_map_directions) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_directions)
 
 ```yaml
-flutter_map_directions: ^0.0.4
+flutter_map_directions: ^0.0.5
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sat, Aug 19, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_directions)  [GitHub](https://github.com/nkdkhanh46/flutter_map_directions) | ^5.0.0 |
+| Wed, Aug 23, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_directions)  [GitHub](https://github.com/nkdkhanh46/flutter_map_directions) | ^5.0.0 |
 ### location_picker_flutter_map
 Package that provides Place search and Location picker for flutter maps with alot of cusomizations using Open Street Map
 
