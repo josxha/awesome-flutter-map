@@ -132,6 +132,17 @@ flutter_map_directions: ^0.0.5
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Wed, Aug 23, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_directions)  [GitHub](https://github.com/nkdkhanh46/flutter_map_directions) | ^5.0.0 |
+### flutter_open_street_map
+A flutter place search and location picker plugin that uses Open Street Map.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_open_street_map) ![Pub Points](https://img.shields.io/pub/points/flutter_open_street_map) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_open_street_map)
+
+```yaml
+flutter_open_street_map: ^0.0.4
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Wed, Aug 23, 2023 | [pub.dev](https://pub.dev/packages/flutter_open_street_map)  [GitHub](https://github.com/MicroProgramer/flutter_open_street_map.git) | ^5.0.0 |
 ### location_picker_flutter_map
 Package that provides Place search and Location picker for flutter maps with alot of cusomizations using Open Street Map
 
