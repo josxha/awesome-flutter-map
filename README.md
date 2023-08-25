@@ -211,6 +211,17 @@ geojson: ^1.0.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Sat, Jul 10, 2021 | [pub.dev](https://pub.dev/packages/geojson)  [GitHub](https://github.com/synw/geojson) | - |
+### longpress_popup
+This Flutter package enhances flutter_map by providing an easy way to display a customizable popup widget whenever a user taps on a marker. With this plugin, you can add a personalized touch to your map by creating popups that include images, text, and buttons. You can also use the provided methods to programmatically show and hide popups. Overall, this package simplifies the process of adding interactivity to your maps and provides a seamless user experience.
+
+![Pub Likes](https://img.shields.io/pub/likes/longpress_popup) ![Pub Points](https://img.shields.io/pub/points/longpress_popup) ![Pub Popularity](https://img.shields.io/pub/popularity/longpress_popup)
+
+```yaml
+longpress_popup: ^2.0.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Thu, Aug 24, 2023 | [pub.dev](https://pub.dev/packages/longpress_popup)  [Homepage](https://github.com/ymrabti)  [GitHub](https://github.com/ymrabti/fluttermap_markerpopup) | ^5.0.0 |
 ### map_controller_plus
 A map controller for Flutter map. Manage markers, lines and polygons.
 
