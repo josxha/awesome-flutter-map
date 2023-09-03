@@ -233,6 +233,17 @@ map_controller_plus: ^3.0.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Sun, May 7, 2023 | [pub.dev](https://pub.dev/packages/map_controller_plus)  [GitHub](https://github.com/TesteurManiak/map_controller_plus) | <span style="color:red">^4.0.0 (not latest)</span> |
+### open_location_picker
+FormField to pick one or more locations from open street map
+
+![Pub Likes](https://img.shields.io/pub/likes/open_location_picker) ![Pub Points](https://img.shields.io/pub/points/open_location_picker) ![Pub Popularity](https://img.shields.io/pub/popularity/open_location_picker)
+
+```yaml
+open_location_picker: ^1.1.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Sat, Sep 2, 2023 | [pub.dev](https://pub.dev/packages/open_location_picker)  [GitHub](https://github.com/mo-ah-dawood/open_location_picker) | ^5.0.0 |
 ### vector_mbtiles
 VectorMB Tiles is a Flutter plugin for working with Mapbox Vector Tiles in FlutterMap.
 
