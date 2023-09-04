@@ -97,6 +97,17 @@ flutter_map_heatmap: ^0.0.4+2
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Wed, Aug 2, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | <span style="color:red">^4.0.0 (not latest)</span> |
+### flutter_map_polywidget
+flutter_map_polywidget is a flutter_map plugin for displaying any widget on the map.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_polywidget) ![Pub Points](https://img.shields.io/pub/points/flutter_map_polywidget) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_polywidget)
+
+```yaml
+flutter_map_polywidget: ^0.0.9
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Thu, Aug 31, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_polywidget)  [GitHub](https://github.com/TimBaumgart/flutter_map_polywidget) | ^5.0.0 |
 ### lat_lon_grid_plugin
 Adds a latitude / longitude grid as plugin to the [flutter_map](https://github.com/fleaflet/flutter_map/).
 
