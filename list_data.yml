@@ -17,6 +17,7 @@ layers:
     - vector_map_tiles
     - flutter_map_heatmap
     - lat_lon_grid_plugin
+    - flutter_map_polywidget
 
 online_service_integration:
   name: Online service integration
