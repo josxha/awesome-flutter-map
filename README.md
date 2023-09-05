@@ -29,6 +29,17 @@ flutter_map_dragmarker: ^5.0.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Tue, Jun 13, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_dragmarker)  [GitHub](https://github.com/ibrierley/flutter_map_dragmarker) | >=5.0.0 <6.0.0 |
+### flutter_map_geojson
+This package parses GeoJson formatted spatial data.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_geojson) ![Pub Points](https://img.shields.io/pub/points/flutter_map_geojson) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_geojson)
+
+```yaml
+flutter_map_geojson: ^1.0.3
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, Sep 5, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_geojson)  [GitHub](https://github.com/jozes/flutter_map_geojson) | ^5.0.0 |
 ### flutter_map_location_marker
 A flutter map plugin for displaying device current location.
 
