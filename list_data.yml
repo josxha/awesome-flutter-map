@@ -28,16 +28,27 @@ online_service_integration:
     - flutter_open_street_map
     - flutter_google_location_picker
 
+tile_providers:
+  name: Tile Providers
+  entries:
+    - flutter_map_cache
+    - flutter_map_cancellable_tile_provider
+
+file_support:
+  name: File support
+  entries:
+    - power_geojson
+    - geojson
+    - vector_mbtiles
+
 utility:
   name: Utility
   entries:
     - flutter_map_animations
     - open_location_picker
     - map_controller_plus
-    - flutter_map_cache
     - flutter_map_tile_caching
     - longpress_popup
     - flutter_map_toolkit
     - flutter_map_line_editor
-    - geojson
-    - vector_mbtiles
+    
