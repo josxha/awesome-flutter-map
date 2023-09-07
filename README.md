@@ -57,11 +57,11 @@ A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautif
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_marker_cluster) ![Pub Points](https://img.shields.io/pub/points/flutter_map_marker_cluster) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_marker_cluster)
 
 ```yaml
-flutter_map_marker_cluster: ^1.1.1
+flutter_map_marker_cluster: ^1.2.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Wed, May 31, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_cluster)  [GitHub](https://github.com/lpongetti/flutter_map_marker_cluster) | <span style="color:red">^4.0.0 (not latest)</span> |
+| Thu, Sep 7, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_cluster)  [GitHub](https://github.com/lpongetti/flutter_map_marker_cluster) | ^5.0.0 |
 ### flutter_map_marker_popup
 A plugin for flutter_map to show a customisable popup Widget when a marker is tapped. Also provides methods to show/hide popups.
 
@@ -177,6 +177,54 @@ location_picker_flutter_map: ^1.2.2
 | ----------- | ----- | ------------------- |
 | Tue, Aug 8, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | ^5.0.0 |
 
+## Tile Providers
+### flutter_map_cache
+A slim yet powerful caching plugin for flutter_map tile layers.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cache) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cache) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cache)
+
+```yaml
+flutter_map_cache: ^1.2.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Wed, Jun 28, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_cache) | ^5.0.0 |
+
+## File support
+### geojson
+Utilities to work with geojson data. Parser with a reactive api, search and geofencing
+
+![Pub Likes](https://img.shields.io/pub/likes/geojson) ![Pub Points](https://img.shields.io/pub/points/geojson) ![Pub Popularity](https://img.shields.io/pub/popularity/geojson)
+
+```yaml
+geojson: ^1.0.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Sat, Jul 10, 2021 | [pub.dev](https://pub.dev/packages/geojson)  [GitHub](https://github.com/synw/geojson) | - |
+### power_geojson
+A Powerful tool for Geojson with flutter_map, can be styled from its properties, and use buffers, also supports esri json, and soon supports multiple projection and coordinate systems
+
+![Pub Likes](https://img.shields.io/pub/likes/power_geojson) ![Pub Points](https://img.shields.io/pub/points/power_geojson) ![Pub Popularity](https://img.shields.io/pub/popularity/power_geojson)
+
+```yaml
+power_geojson: ^0.0.1
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Thu, Aug 24, 2023 | [pub.dev](https://pub.dev/packages/power_geojson)  [GitHub](https://github.com/ymrabti/power_geojson) | ^5.0.0 |
+### vector_mbtiles
+VectorMB Tiles is a Flutter plugin for working with Mapbox Vector Tiles in FlutterMap.
+
+![Pub Likes](https://img.shields.io/pub/likes/vector_mbtiles) ![Pub Points](https://img.shields.io/pub/points/vector_mbtiles) ![Pub Popularity](https://img.shields.io/pub/popularity/vector_mbtiles)
+
+```yaml
+vector_mbtiles: ^0.0.5
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, Oct 18, 2022 | [pub.dev](https://pub.dev/packages/vector_mbtiles)  [GitHub](https://github.com/psytwo1/vector_mbtiles.git) | - |
+
 ## Utility
 ### flutter_map_animations
 Animation utilities for markers and controls of the flutter_map package.
@@ -189,17 +237,6 @@ flutter_map_animations: ^0.4.1
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Tue, Jun 13, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^5.0.0 |
-### flutter_map_cache
-A slim yet powerful caching plugin for flutter_map tile layers.
-
-![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cache) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cache) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cache)
-
-```yaml
-flutter_map_cache: ^1.2.0
-```
-| Last update | Links | flutter_map version |
-| ----------- | ----- | ------------------- |
-| Wed, Jun 28, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_cache) | ^5.0.0 |
 ### flutter_map_line_editor
 A basic Line and Polygon editor for `flutter_map` using drag markers
 
@@ -222,17 +259,6 @@ flutter_map_tile_caching: ^8.0.1
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Sat, Jul 29, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | <span style="color:red">^4.0.0 (not latest)</span> |
-### geojson
-Utilities to work with geojson data. Parser with a reactive api, search and geofencing
-
-![Pub Likes](https://img.shields.io/pub/likes/geojson) ![Pub Points](https://img.shields.io/pub/points/geojson) ![Pub Popularity](https://img.shields.io/pub/popularity/geojson)
-
-```yaml
-geojson: ^1.0.0
-```
-| Last update | Links | flutter_map version |
-| ----------- | ----- | ------------------- |
-| Sat, Jul 10, 2021 | [pub.dev](https://pub.dev/packages/geojson)  [GitHub](https://github.com/synw/geojson) | - |
 ### longpress_popup
 This Flutter package enhances flutter_map by providing an easy way to display a customizable popup widget whenever a user taps on a marker. With this plugin, you can add a personalized touch to your map by creating popups that include images, text, and buttons. You can also use the provided methods to programmatically show and hide popups. Overall, this package simplifies the process of adding interactivity to your maps and provides a seamless user experience.
 
@@ -266,14 +292,3 @@ open_location_picker: ^1.1.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Sat, Sep 2, 2023 | [pub.dev](https://pub.dev/packages/open_location_picker)  [GitHub](https://github.com/mo-ah-dawood/open_location_picker) | ^5.0.0 |
-### vector_mbtiles
-VectorMB Tiles is a Flutter plugin for working with Mapbox Vector Tiles in FlutterMap.
-
-![Pub Likes](https://img.shields.io/pub/likes/vector_mbtiles) ![Pub Points](https://img.shields.io/pub/points/vector_mbtiles) ![Pub Popularity](https://img.shields.io/pub/popularity/vector_mbtiles)
-
-```yaml
-vector_mbtiles: ^0.0.5
-```
-| Last update | Links | flutter_map version |
-| ----------- | ----- | ------------------- |
-| Tue, Oct 18, 2022 | [pub.dev](https://pub.dev/packages/vector_mbtiles)  [GitHub](https://github.com/psytwo1/vector_mbtiles.git) | - |
