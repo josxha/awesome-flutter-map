@@ -114,11 +114,11 @@ flutter_map_polywidget is a flutter_map plugin for displaying any widget on the 
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_polywidget) ![Pub Points](https://img.shields.io/pub/points/flutter_map_polywidget) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_polywidget)
 
 ```yaml
-flutter_map_polywidget: ^0.0.9
+flutter_map_polywidget: ^0.1.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Thu, Aug 31, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_polywidget)  [GitHub](https://github.com/TimBaumgart/flutter_map_polywidget) | ^5.0.0 |
+| Mon, Sep 11, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_polywidget)  [GitHub](https://github.com/TimBaumgart/flutter_map_polywidget) | ^5.0.0 |
 ### lat_lon_grid_plugin
 Adds a latitude / longitude grid as plugin to the [flutter_map](https://github.com/fleaflet/flutter_map/).
 
