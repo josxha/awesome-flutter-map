@@ -10,6 +10,8 @@ markers_polygons:
     - flutter_map_geojson
     - flutter_map_radius_cluster
     - flutter_map_animated_marker
+    - flutter_map_floating_marker_titles
+    - line_animator
 
 layers:
   name: Layers
@@ -51,4 +53,5 @@ utility:
     - longpress_popup
     - flutter_map_toolkit
     - flutter_map_line_editor
+    - polybool
     
