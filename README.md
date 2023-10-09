@@ -35,11 +35,11 @@ Floating Map Marker Titles for flutter_map
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_floating_marker_titles) ![Pub Points](https://img.shields.io/pub/points/flutter_map_floating_marker_titles) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_floating_marker_titles)
 
 ```yaml
-flutter_map_floating_marker_titles: ^1.0.0
+flutter_map_floating_marker_titles: ^1.1.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Thu, Jun 22, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_floating_marker_titles)  [GitHub](https://github.com/androidseb/flutter_map_floating_marker_titles) | <span style="color:red">^5.0.0 (not latest)</span> |
+| Mon, Oct 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_floating_marker_titles)  [GitHub](https://github.com/androidseb/flutter_map_floating_marker_titles) | ^6.0.0 |
 ### flutter_map_geojson
 This package parses GeoJson formatted spatial data.
 
@@ -114,11 +114,11 @@ flutter_map_polywidget is a flutter_map plugin for displaying any widget on the 
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_polywidget) ![Pub Points](https://img.shields.io/pub/points/flutter_map_polywidget) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_polywidget)
 
 ```yaml
-flutter_map_polywidget: ^0.1.0
+flutter_map_polywidget: ^1.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, Sep 11, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_polywidget)  [GitHub](https://github.com/TimBaumgart/flutter_map_polywidget) | <span style="color:red">^5.0.0 (not latest)</span> |
+| Mon, Oct 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_polywidget)  [GitHub](https://github.com/TimBaumgart/flutter_map_polywidget) | ^6.0.0 |
 ### lat_lon_grid_plugin
 Adds a latitude / longitude grid as plugin to the [flutter_map](https://github.com/fleaflet/flutter_map/).
 
@@ -184,11 +184,11 @@ A slim yet powerful caching plugin for flutter_map tile layers.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cache) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cache) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cache)
 
 ```yaml
-flutter_map_cache: ^1.2.0
+flutter_map_cache: ^1.3.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Wed, Jun 28, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_cache) | <span style="color:red">^5.0.0 (not latest)</span> |
+| Mon, Oct 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_cache) | ^6.0.0 |
 ### flutter_map_cancellable_tile_provider
 Plugin for flutter_map that provides a `TileProvider` with the capability to cancel unnecessary HTTP tile requests
 
@@ -243,11 +243,11 @@ Animation utilities for markers and controls of the flutter_map package.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_animations) ![Pub Points](https://img.shields.io/pub/points/flutter_map_animations) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_animations)
 
 ```yaml
-flutter_map_animations: ^0.4.1
+flutter_map_animations: ^0.5.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Jun 13, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | <span style="color:red">^5.0.0 (not latest)</span> |
+| Mon, Oct 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^6.0.0 |
 ### flutter_map_line_editor
 A basic Line and Polygon editor for `flutter_map` using drag markers
 
