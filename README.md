@@ -74,16 +74,16 @@ flutter_map_marker_cluster: ^1.2.0
 | ----------- | ----- | ------------------- |
 | Thu, Sep 7, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_cluster)  [GitHub](https://github.com/lpongetti/flutter_map_marker_cluster) | <span style="color:red">^5.0.0 (not latest)</span> |
 ### flutter_map_marker_popup
-A plugin for flutter_map to show a customisable popup Widget when a marker is tapped. Also provides methods to show/hide popups.
+Marker popups for flutter_map.
 
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_marker_popup) ![Pub Points](https://img.shields.io/pub/points/flutter_map_marker_popup) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_marker_popup)
 
 ```yaml
-flutter_map_marker_popup: ^5.2.0
+flutter_map_marker_popup: ^6.1.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Thu, Jun 22, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [GitHub](https://github.com/rorystephenson/flutter_map_marker_popup) | <span style="color:red">^5.0.0 (not latest)</span> |
+| Sun, Oct 15, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [GitHub](https://github.com/rorystephenson/flutter_map_marker_popup) | ^6.0.0 |
 ### flutter_map_tappable_polyline
 A flutter_map plugin that adds Polyline class with onTap event
 
