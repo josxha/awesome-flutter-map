@@ -243,11 +243,11 @@ Animation utilities for markers and controls of the flutter_map package.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_animations) ![Pub Points](https://img.shields.io/pub/points/flutter_map_animations) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_animations)
 
 ```yaml
-flutter_map_animations: ^0.5.2
+flutter_map_animations: ^0.5.3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Thu, Oct 19, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^6.0.0 |
+| Tue, Oct 24, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^6.0.1 |
 ### flutter_map_line_editor
 A basic Line and Polygon editor for `flutter_map` using drag markers
 
