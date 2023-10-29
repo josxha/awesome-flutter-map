@@ -41,16 +41,16 @@ flutter_map_floating_marker_titles: ^1.1.0
 | ----------- | ----- | ------------------- |
 | Mon, Oct 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_floating_marker_titles)  [GitHub](https://github.com/androidseb/flutter_map_floating_marker_titles) | ^6.0.0 |
 ### flutter_map_geojson
-This package parses GeoJson formatted spatial data.
+This package parses GeoJson formatted spatial data and creates arrays of Flutter Map objects using default or custom defined create functions.
 
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_geojson) ![Pub Points](https://img.shields.io/pub/points/flutter_map_geojson) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_geojson)
 
 ```yaml
-flutter_map_geojson: ^1.0.3
+flutter_map_geojson: ^1.0.6
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Sep 5, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_geojson)  [GitHub](https://github.com/jozes/flutter_map_geojson) | <span style="color:red">^5.0.0 (not latest)</span> |
+| Sun, Oct 29, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_geojson)  [GitHub](https://github.com/jozes/flutter_map_geojson) | ^6.0.0 |
 ### flutter_map_location_marker
 A flutter map plugin for displaying device current location.
 
