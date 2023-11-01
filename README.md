@@ -18,6 +18,17 @@ Is a package missing? Fork this repository, add its name to [list_data.yml](list
 ---
 
 ## Markers, polylines and polygons
+### flutter_map_arcgis
+Arcgis plugin for flutter map. Features Support unique render, ontap event, ontap with atttributes, geometry types (point, polgyon, polylin)
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_arcgis) ![Pub Points](https://img.shields.io/pub/points/flutter_map_arcgis) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_arcgis)
+
+```yaml
+flutter_map_arcgis: ^2.0.5
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, Oct 31, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_arcgis)  [GitHub](https://github.com/khankhulgun/flutter_map_arcgis) | ^6.0.1 |
 ### flutter_map_dragmarker
 Dragmarker class for flutter_map
 
@@ -90,11 +101,11 @@ A flutter_map plugin that adds Polyline class with onTap event
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_tappable_polyline) ![Pub Points](https://img.shields.io/pub/points/flutter_map_tappable_polyline) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_tappable_polyline)
 
 ```yaml
-flutter_map_tappable_polyline: ^5.0.0
+flutter_map_tappable_polyline: ^6.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, Jun 5, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_tappable_polyline)  [GitHub](https://github.com/OwnWeb/flutter_map_tappable_polyline) | <span style="color:red">^5.0.0 (not latest)</span> |
+| Tue, Oct 31, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_tappable_polyline)  [GitHub](https://github.com/OwnWeb/flutter_map_tappable_polyline) | ^6.0.1 |
 ### line_animator
 A Line Animator for Flutter
 
