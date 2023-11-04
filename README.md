@@ -35,11 +35,11 @@ Dragmarker class for flutter_map
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_dragmarker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_dragmarker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_dragmarker)
 
 ```yaml
-flutter_map_dragmarker: ^5.0.0
+flutter_map_dragmarker: ^6.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Jun 13, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_dragmarker)  [GitHub](https://github.com/ibrierley/flutter_map_dragmarker) | <span style="color:red">>=5.0.0 <6.0.0 (not latest)</span> |
+| Fri, Nov 3, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_dragmarker)  [GitHub](https://github.com/ibrierley/flutter_map_dragmarker) | ^6.0.0 |
 ### flutter_map_floating_marker_titles
 Floating Map Marker Titles for flutter_map
 
@@ -68,11 +68,11 @@ A flutter map plugin for displaying device current location.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_location_marker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_location_marker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_location_marker)
 
 ```yaml
-flutter_map_location_marker: ^8.0.0
+flutter_map_location_marker: ^8.0.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Oct 10, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^6.0.0 |
+| Fri, Nov 3, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^6.0.1 |
 ### flutter_map_marker_cluster
 A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautiful animated marker clustering functionality for flutter_map.
 
@@ -95,6 +95,17 @@ flutter_map_marker_popup: ^6.1.2
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Wed, Oct 25, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [GitHub](https://github.com/rorystephenson/flutter_map_marker_popup) | ^6.0.1 |
+### flutter_map_supercluster
+Very fast Marker clustering for flutter_map. Supports efficient adding/removing of Markers.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_supercluster) ![Pub Points](https://img.shields.io/pub/points/flutter_map_supercluster) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_supercluster)
+
+```yaml
+flutter_map_supercluster: ^4.3.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Thu, Jul 6, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_supercluster)  [GitHub](https://github.com/rorystephenson/flutter_map_supercluster) | <span style="color:red">^5.0.0 (not latest)</span> |
 ### flutter_map_tappable_polyline
 A flutter_map plugin that adds Polyline class with onTap event
 
@@ -182,11 +193,11 @@ Package that provides Place search and Location picker for flutter maps with alo
 ![Pub Likes](https://img.shields.io/pub/likes/location_picker_flutter_map) ![Pub Points](https://img.shields.io/pub/points/location_picker_flutter_map) ![Pub Popularity](https://img.shields.io/pub/popularity/location_picker_flutter_map)
 
 ```yaml
-location_picker_flutter_map: ^1.2.2
+location_picker_flutter_map: ^2.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Aug 8, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | <span style="color:red">^5.0.0 (not latest)</span> |
+| Sat, Nov 4, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | ^6.0.1 |
 
 ## Tile Providers
 ### flutter_map_cache
@@ -265,11 +276,11 @@ A basic Line and Polygon editor for `flutter_map` using drag markers
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_line_editor) ![Pub Points](https://img.shields.io/pub/points/flutter_map_line_editor) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_line_editor)
 
 ```yaml
-flutter_map_line_editor: ^5.0.0
+flutter_map_line_editor: ^6.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Jun 13, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_line_editor)  [GitHub](https://github.com/ibrierley/flutter_map_line_editor) | - |
+| Fri, Nov 3, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_line_editor)  [GitHub](https://github.com/ibrierley/flutter_map_line_editor) | - |
 ### longpress_popup
 This Flutter package enhances flutter_map by providing an easy way to display a customizable popup widget whenever a user taps on a marker. With this plugin, you can add a personalized touch to your map by creating popups that include images, text, and buttons. You can also use the provided methods to programmatically show and hide popups. Overall, this package simplifies the process of adding interactivity to your maps and provides a seamless user experience.
 
