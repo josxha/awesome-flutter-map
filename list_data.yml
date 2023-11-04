@@ -12,6 +12,7 @@ markers_polygons:
     - flutter_map_animated_marker
     - flutter_map_floating_marker_titles
     - line_animator
+    - flutter_map_supercluster
 
 layers:
   name: Layers
