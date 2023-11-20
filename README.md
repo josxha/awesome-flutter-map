@@ -158,11 +158,11 @@ A plugin for `flutter_map` that enables the use of vector tiles.
 ![Pub Likes](https://img.shields.io/pub/likes/vector_map_tiles) ![Pub Points](https://img.shields.io/pub/points/vector_map_tiles) ![Pub Popularity](https://img.shields.io/pub/popularity/vector_map_tiles)
 
 ```yaml
-vector_map_tiles: ^6.0.1
+vector_map_tiles: ^6.0.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sat, Oct 7, 2023 | [pub.dev](https://pub.dev/packages/vector_map_tiles)  [GitHub](https://github.com/greensopinion/flutter-vector-map-tiles) | <span style="color:red">^5.0.0 (not latest)</span> |
+| Sat, Nov 18, 2023 | [pub.dev](https://pub.dev/packages/vector_map_tiles)  [GitHub](https://github.com/greensopinion/flutter-vector-map-tiles) | <span style="color:red">^5.0.0 (not latest)</span> |
 
 ## Online service integration
 ### flutter_map_directions
