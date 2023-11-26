@@ -130,6 +130,17 @@ line_animator: ^1.0.0+3
 | Thu, Jun 9, 2022 | [pub.dev](https://pub.dev/packages/line_animator)  [GitHub](https://github.com/ibrierley/line_animator) | - |
 
 ## Layers
+### flutter_map_heatmap
+A heatmap plugin for flutter_map
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_heatmap) ![Pub Points](https://img.shields.io/pub/points/flutter_map_heatmap) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_heatmap)
+
+```yaml
+flutter_map_heatmap: ^0.0.6
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Fri, Nov 24, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | ^6.0.0 |
 ### flutter_map_polywidget
 flutter_map_polywidget is a flutter_map plugin for displaying any widget on the map.
 
@@ -193,11 +204,11 @@ Package that provides Place search and Location picker for flutter maps with alo
 ![Pub Likes](https://img.shields.io/pub/likes/location_picker_flutter_map) ![Pub Points](https://img.shields.io/pub/points/location_picker_flutter_map) ![Pub Popularity](https://img.shields.io/pub/popularity/location_picker_flutter_map)
 
 ```yaml
-location_picker_flutter_map: ^2.0.0
+location_picker_flutter_map: ^2.1.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sat, Nov 4, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | ^6.0.1 |
+| Thu, Nov 23, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | ^6.0.1 |
 
 ## Tile Providers
 ### flutter_map_cache
