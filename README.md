@@ -228,11 +228,11 @@ Plugin for flutter_map that provides a `TileProvider` with the capability to can
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cancellable_tile_provider) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cancellable_tile_provider) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cancellable_tile_provider)
 
 ```yaml
-flutter_map_cancellable_tile_provider: ^1.0.0
+flutter_map_cancellable_tile_provider: ^2.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, Oct 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_cancellable_tile_provider)  [Homepage](https://github.com/fleaflet/flutter_map)  [GitHub](https://github.com/fleaflet/flutter_map_cancellable_tile_provider) | ^6.0.0 |
+| Sat, Dec 2, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_cancellable_tile_provider)  [Homepage](https://github.com/fleaflet/flutter_map)  [GitHub](https://github.com/fleaflet/flutter_map_cancellable_tile_provider) | ^6.0.1 |
 
 ## File support
 ### geojson
