@@ -24,11 +24,11 @@ Arcgis plugin for flutter map. Features Support unique render, ontap event, onta
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_arcgis) ![Pub Points](https://img.shields.io/pub/points/flutter_map_arcgis) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_arcgis)
 
 ```yaml
-flutter_map_arcgis: ^2.0.5
+flutter_map_arcgis: ^2.0.6
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Oct 31, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_arcgis)  [GitHub](https://github.com/khankhulgun/flutter_map_arcgis) | ^6.0.1 |
+| Wed, Dec 13, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_arcgis)  [GitHub](https://github.com/khankhulgun/flutter_map_arcgis) | ^6.1.0 |
 ### flutter_map_dragmarker
 Dragmarker class for flutter_map
 
