@@ -136,11 +136,11 @@ A heatmap plugin for flutter_map
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_heatmap) ![Pub Points](https://img.shields.io/pub/points/flutter_map_heatmap) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_heatmap)
 
 ```yaml
-flutter_map_heatmap: ^0.0.6
+flutter_map_heatmap: ^0.0.7
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Fri, Nov 24, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | ^6.0.0 |
+| Tue, Dec 19, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | ^6.0.0 |
 ### flutter_map_polywidget
 flutter_map_polywidget is a flutter_map plugin for displaying any widget on the map.
 
