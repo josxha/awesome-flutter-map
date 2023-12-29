@@ -68,11 +68,11 @@ A flutter map plugin for displaying device current location.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_location_marker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_location_marker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_location_marker)
 
 ```yaml
-flutter_map_location_marker: ^8.0.2
+flutter_map_location_marker: ^8.0.3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Thu, Nov 9, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^6.0.1 |
+| Tue, Dec 26, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^6.1.0 |
 ### flutter_map_marker_cluster
 A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautiful animated marker clustering functionality for flutter_map.
 
@@ -209,6 +209,17 @@ location_picker_flutter_map: ^2.1.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Thu, Nov 23, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | ^6.0.1 |
+### open_street_map_search_and_pick
+A flutter place search and location picker plugin that uses Open Street Map.
+
+![Pub Likes](https://img.shields.io/pub/likes/open_street_map_search_and_pick) ![Pub Points](https://img.shields.io/pub/points/open_street_map_search_and_pick) ![Pub Popularity](https://img.shields.io/pub/popularity/open_street_map_search_and_pick)
+
+```yaml
+open_street_map_search_and_pick: ^0.1.1
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Wed, Dec 27, 2023 | [pub.dev](https://pub.dev/packages/open_street_map_search_and_pick)  [GitHub](https://github.com/AbduzZami/open_street_map_search_and_pick.git) | ^6.1.0 |
 
 ## Tile Providers
 ### flutter_map_cache
