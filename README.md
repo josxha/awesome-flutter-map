@@ -204,11 +204,11 @@ Package that provides Place search and Location picker for flutter maps with alo
 ![Pub Likes](https://img.shields.io/pub/likes/location_picker_flutter_map) ![Pub Points](https://img.shields.io/pub/points/location_picker_flutter_map) ![Pub Popularity](https://img.shields.io/pub/popularity/location_picker_flutter_map)
 
 ```yaml
-location_picker_flutter_map: ^2.1.0
+location_picker_flutter_map: ^3.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Thu, Nov 23, 2023 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | ^6.0.1 |
+| Tue, Jan 9, 2024 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | ^6.0.1 |
 ### open_street_map_search_and_pick
 A flutter place search and location picker plugin that uses Open Street Map.
 
