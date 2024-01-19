@@ -68,11 +68,11 @@ A flutter map plugin for displaying device current location.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_location_marker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_location_marker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_location_marker)
 
 ```yaml
-flutter_map_location_marker: ^8.0.3
+flutter_map_location_marker: ^8.0.4
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Dec 26, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^6.1.0 |
+| Wed, Jan 17, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^6.1.0 |
 ### flutter_map_marker_cluster
 A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautiful animated marker clustering functionality for flutter_map.
 
