@@ -128,6 +128,17 @@ line_animator: ^1.0.0+3
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Thu, Jun 9, 2022 | [pub.dev](https://pub.dev/packages/line_animator)  [GitHub](https://github.com/ibrierley/line_animator) | - |
+### nav_marker
+nav_marker is a Flutter package that enables navigation of markers on flutter_map
+
+![Pub Likes](https://img.shields.io/pub/likes/nav_marker) ![Pub Points](https://img.shields.io/pub/points/nav_marker) ![Pub Popularity](https://img.shields.io/pub/popularity/nav_marker)
+
+```yaml
+nav_marker: ^0.1.2
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Sun, Aug 6, 2023 | [pub.dev](https://pub.dev/packages/nav_marker)  [GitHub](https://github.com/khasij3/nav_marker) | <span style="color:red">^5.0.0 (not latest)</span> |
 
 ## Layers
 ### flutter_map_heatmap
@@ -228,11 +239,22 @@ A slim yet powerful caching plugin for flutter_map tile layers.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cache) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cache) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cache)
 
 ```yaml
-flutter_map_cache: ^1.3.1
+flutter_map_cache: ^1.4.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Fri, Oct 20, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_cache) | ^6.0.0 |
+| Wed, Jan 24, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_cache) | ^6.0.0 |
+### flutter_map_cached_tile_provider
+cached tile provider for flutter_map
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cached_tile_provider) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cached_tile_provider) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cached_tile_provider)
+
+```yaml
+flutter_map_cached_tile_provider: ^0.0.1
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Mon, Jan 15, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cached_tile_provider)  [GitHub](https://github.com/physia/kflutter) | ^6.1.0 |
 ### flutter_map_cancellable_tile_provider
 Plugin for flutter_map that provides a `TileProvider` with the capability to cancel unnecessary HTTP tile requests
 
@@ -325,6 +347,17 @@ open_location_picker: ^1.1.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Sat, Sep 2, 2023 | [pub.dev](https://pub.dev/packages/open_location_picker)  [GitHub](https://github.com/mo-ah-dawood/open_location_picker) | <span style="color:red">^5.0.0 (not latest)</span> |
+### osrm
+Open Source Routing Machine (OSRM) client for Dart.
+
+![Pub Likes](https://img.shields.io/pub/likes/osrm) ![Pub Points](https://img.shields.io/pub/points/osrm) ![Pub Popularity](https://img.shields.io/pub/popularity/osrm)
+
+```yaml
+osrm: ^0.0.5
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Wed, Aug 2, 2023 | [pub.dev](https://pub.dev/packages/osrm)  [GitHub](https://github.com/physia/kflutter/tree/main/osrm) | - |
 ### polybool
 Boolean operations on polygons (union, intersection, difference, xor).
 
