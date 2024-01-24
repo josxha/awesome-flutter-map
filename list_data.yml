@@ -45,6 +45,7 @@ file_support:
     - power_geojson
     - geojson
     - vector_mbtiles
+    - mbtiles
 
 utility:
   name: Utility
