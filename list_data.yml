@@ -13,6 +13,7 @@ markers_polygons:
     - flutter_map_floating_marker_titles
     - line_animator
     - flutter_map_supercluster
+    - nav_marker
 
 layers:
   name: Layers
@@ -36,6 +37,7 @@ tile_providers:
   entries:
     - flutter_map_cache
     - flutter_map_cancellable_tile_provider
+    - flutter_map_cached_tile_provider
 
 file_support:
   name: File support
@@ -55,4 +57,5 @@ utility:
     - flutter_map_toolkit
     - flutter_map_line_editor
     - polybool
+    - osrm
     
