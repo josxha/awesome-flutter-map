@@ -267,12 +267,12 @@ flutter_map_cancellable_tile_provider: ^2.0.0
 | ----------- | ----- | ------------------- |
 | Sat, Dec 2, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_cancellable_tile_provider)  [Homepage](https://github.com/fleaflet/flutter_map)  [GitHub](https://github.com/fleaflet/flutter_map_cancellable_tile_provider) | ^6.0.1 |
 ### flutter_map_pmtiles
-PMTiles for flutter_map
+PMTiles tile provider for flutter_map. It uses HTTP Range Requests to request tiles from a single local or hosted file.
 
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_pmtiles) ![Pub Points](https://img.shields.io/pub/points/flutter_map_pmtiles) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_pmtiles)
 
 ```yaml
-flutter_map_pmtiles: ^1.0.1
+flutter_map_pmtiles: ^1.0.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
