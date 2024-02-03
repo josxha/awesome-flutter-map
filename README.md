@@ -239,22 +239,22 @@ A slim yet powerful caching plugin for flutter_map tile layers.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cache) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cache) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cache)
 
 ```yaml
-flutter_map_cache: ^1.4.1
+flutter_map_cache: ^1.4.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Wed, Jan 24, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_cache) | ^6.0.0 |
+| Thu, Feb 1, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^6.0.0 |
 ### flutter_map_cached_tile_provider
 cached tile provider for flutter_map
 
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cached_tile_provider) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cached_tile_provider) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cached_tile_provider)
 
 ```yaml
-flutter_map_cached_tile_provider: ^0.0.1
+flutter_map_cached_tile_provider: ^0.0.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, Jan 15, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cached_tile_provider)  [GitHub](https://github.com/physia/kflutter) | ^6.1.0 |
+| Fri, Feb 2, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cached_tile_provider)  [GitHub](https://github.com/physia/kflutter) | ^6.1.0 |
 ### flutter_map_cancellable_tile_provider
 Plugin for flutter_map that provides a `TileProvider` with the capability to cancel unnecessary HTTP tile requests
 
