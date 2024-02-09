@@ -141,6 +141,17 @@ nav_marker: ^0.1.2
 | Sun, Aug 6, 2023 | [pub.dev](https://pub.dev/packages/nav_marker)  [GitHub](https://github.com/khasij3/nav_marker) | <span style="color:red">^5.0.0 (not latest)</span> |
 
 ## Layers
+### flutter_map_compass
+A simple compass for flutter_map. It shows the rotation of the map and resets the rotation back to 0 when tapped.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_compass) ![Pub Points](https://img.shields.io/pub/points/flutter_map_compass) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_compass)
+
+```yaml
+flutter_map_compass: ^1.0.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Fri, Feb 9, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_compass)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^6.1.0 |
 ### flutter_map_heatmap
 A heatmap plugin for flutter_map
 
@@ -296,11 +307,11 @@ Mapbox MBTiles v1.3 files, support for vector and raster tiles.
 ![Pub Likes](https://img.shields.io/pub/likes/mbtiles) ![Pub Points](https://img.shields.io/pub/points/mbtiles) ![Pub Popularity](https://img.shields.io/pub/popularity/mbtiles)
 
 ```yaml
-mbtiles: ^0.1.1
+mbtiles: ^0.2.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sat, Nov 25, 2023 | [pub.dev](https://pub.dev/packages/mbtiles)  [GitHub](https://github.com/josxha/dart_mbtiles) | - |
+| Fri, Feb 9, 2024 | [pub.dev](https://pub.dev/packages/mbtiles)  [GitHub](https://github.com/josxha/dart_mbtiles) | - |
 ### power_geojson
 A Powerful tool for Geojson with flutter_map, styled from properties, supports esri json, soon supports multiple projection and coordinate systems
 
