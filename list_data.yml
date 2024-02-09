@@ -22,6 +22,7 @@ layers:
     - flutter_map_heatmap
     - lat_lon_grid_plugin
     - flutter_map_polywidget
+    - flutter_map_compass
 
 online_service_integration:
   name: Online service integration
