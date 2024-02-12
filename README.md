@@ -147,7 +147,7 @@ A simple compass for flutter_map. It shows the rotation of the map and resets th
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_compass) ![Pub Points](https://img.shields.io/pub/points/flutter_map_compass) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_compass)
 
 ```yaml
-flutter_map_compass: ^1.0.0
+flutter_map_compass: ^1.0.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
@@ -250,11 +250,11 @@ A slim yet powerful caching plugin for flutter_map tile layers.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cache) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cache) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cache)
 
 ```yaml
-flutter_map_cache: ^1.4.3
+flutter_map_cache: ^1.4.4
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Feb 6, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^6.0.0 |
+| Sat, Feb 10, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^6.0.0 |
 ### flutter_map_cached_tile_provider
 cached tile provider for flutter_map
 
@@ -283,11 +283,11 @@ PMTiles tile provider for flutter_map. It uses HTTP Range Requests to request ti
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_pmtiles) ![Pub Points](https://img.shields.io/pub/points/flutter_map_pmtiles) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_pmtiles)
 
 ```yaml
-flutter_map_pmtiles: ^1.0.2
+flutter_map_pmtiles: ^1.0.3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Jan 30, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_pmtiles)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^6.1.0 |
+| Sat, Feb 10, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_pmtiles)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^6.1.0 |
 
 ## File support
 ### geojson
@@ -307,11 +307,11 @@ Mapbox MBTiles v1.3 files, support for vector and raster tiles.
 ![Pub Likes](https://img.shields.io/pub/likes/mbtiles) ![Pub Points](https://img.shields.io/pub/points/mbtiles) ![Pub Popularity](https://img.shields.io/pub/popularity/mbtiles)
 
 ```yaml
-mbtiles: ^0.2.0
+mbtiles: ^0.3.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Fri, Feb 9, 2024 | [pub.dev](https://pub.dev/packages/mbtiles)  [GitHub](https://github.com/josxha/dart_mbtiles) | - |
+| Mon, Feb 12, 2024 | [pub.dev](https://pub.dev/packages/mbtiles)  [GitHub](https://github.com/josxha/dart_mbtiles) | - |
 ### power_geojson
 A Powerful tool for Geojson with flutter_map, styled from properties, supports esri json, soon supports multiple projection and coordinate systems
 
