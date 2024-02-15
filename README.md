@@ -68,11 +68,11 @@ A flutter map plugin for displaying device current location.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_location_marker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_location_marker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_location_marker)
 
 ```yaml
-flutter_map_location_marker: ^8.0.4
+flutter_map_location_marker: ^8.0.5
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Wed, Jan 17, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^6.1.0 |
+| Thu, Feb 15, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^6.1.0 |
 ### flutter_map_marker_cluster
 A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautiful animated marker clustering functionality for flutter_map.
 
@@ -318,11 +318,11 @@ A Powerful tool for Geojson with flutter_map, styled from properties, supports e
 ![Pub Likes](https://img.shields.io/pub/likes/power_geojson) ![Pub Points](https://img.shields.io/pub/points/power_geojson) ![Pub Popularity](https://img.shields.io/pub/popularity/power_geojson)
 
 ```yaml
-power_geojson: ^1.0.3+9
+power_geojson: ^1.0.4+10
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Wed, Feb 14, 2024 | [pub.dev](https://pub.dev/packages/power_geojson)  [GitHub](https://github.com/ymrabti/power_geojson) | ^6.1.0 |
+| Thu, Feb 15, 2024 | [pub.dev](https://pub.dev/packages/power_geojson)  [GitHub](https://github.com/ymrabti/power_geojson) | ^6.1.0 |
 ### vector_mbtiles
 VectorMB Tiles is a Flutter plugin for working with Mapbox Vector Tiles in FlutterMap.
 
