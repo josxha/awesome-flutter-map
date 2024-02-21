@@ -18,6 +18,17 @@ Is a package missing? Fork this repository, add its name to [list_data.yml](list
 ---
 
 ## Markers, polylines and polygons
+### flutter_map_animated_marker
+Animated marker for flutter_mapp
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_animated_marker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_animated_marker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_animated_marker)
+
+```yaml
+flutter_map_animated_marker: ^2.0.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, Feb 20, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_animated_marker)  [GitHub](https://github.com/ankiimation/flutter_map_animated_marker) | ^6.1.0 |
 ### flutter_map_arcgis
 Arcgis plugin for flutter map. Features Support unique render, ontap event, ontap with atttributes, geometry types (point, polgyon, polylin)
 
@@ -68,11 +79,11 @@ A flutter map plugin for displaying device current location.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_location_marker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_location_marker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_location_marker)
 
 ```yaml
-flutter_map_location_marker: ^8.0.6
+flutter_map_location_marker: ^8.0.7
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Fri, Feb 16, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^6.1.0 |
+| Mon, Feb 19, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^6.1.0 |
 ### flutter_map_marker_cluster
 A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautiful animated marker clustering functionality for flutter_map.
 
@@ -191,11 +202,11 @@ A plugin for `flutter_map` that enables the use of vector tiles.
 ![Pub Likes](https://img.shields.io/pub/likes/vector_map_tiles) ![Pub Points](https://img.shields.io/pub/points/vector_map_tiles) ![Pub Popularity](https://img.shields.io/pub/popularity/vector_map_tiles)
 
 ```yaml
-vector_map_tiles: ^7.0.1
+vector_map_tiles: ^7.3.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sat, Dec 9, 2023 | [pub.dev](https://pub.dev/packages/vector_map_tiles)  [GitHub](https://github.com/greensopinion/flutter-vector-map-tiles) | ^6.1.0 |
+| Mon, Feb 19, 2024 | [pub.dev](https://pub.dev/packages/vector_map_tiles)  [GitHub](https://github.com/greensopinion/flutter-vector-map-tiles) | ^6.1.0 |
 
 ## Online service integration
 ### flutter_map_directions
@@ -250,11 +261,11 @@ A slim yet powerful caching plugin for flutter_map tile layers.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cache) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cache) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cache)
 
 ```yaml
-flutter_map_cache: ^1.4.4
+flutter_map_cache: ^1.5.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sat, Feb 10, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^6.0.0 |
+| Mon, Feb 19, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^6.0.0 |
 ### flutter_map_cached_tile_provider
 cached tile provider for flutter_map
 
@@ -307,11 +318,11 @@ Mapbox MBTiles v1.3 files, support for vector and raster tiles.
 ![Pub Likes](https://img.shields.io/pub/likes/mbtiles) ![Pub Points](https://img.shields.io/pub/points/mbtiles) ![Pub Popularity](https://img.shields.io/pub/popularity/mbtiles)
 
 ```yaml
-mbtiles: ^0.3.1
+mbtiles: ^0.4.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, Feb 12, 2024 | [pub.dev](https://pub.dev/packages/mbtiles)  [GitHub](https://github.com/josxha/dart_mbtiles) | - |
+| Sun, Feb 18, 2024 | [pub.dev](https://pub.dev/packages/mbtiles)  [GitHub](https://github.com/josxha/dart_mbtiles) | - |
 ### power_geojson
 A Powerful tool for Geojson with flutter_map, styled from properties, supports esri json, soon supports multiple projection and coordinate systems
 
