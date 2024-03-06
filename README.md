@@ -150,6 +150,17 @@ nav_marker: ^0.1.2
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Sun, Aug 6, 2023 | [pub.dev](https://pub.dev/packages/nav_marker)  [GitHub](https://github.com/khasij3/nav_marker) | <span style="color:red">^5.0.0 (not latest)</span> |
+### polaris_map_editor
+PolarisMapEditor is a library for creating map editors with a celestial touch, allowing users to interactively draw areas on the map.
+
+![Pub Likes](https://img.shields.io/pub/likes/polaris_map_editor) ![Pub Points](https://img.shields.io/pub/points/polaris_map_editor) ![Pub Popularity](https://img.shields.io/pub/popularity/polaris_map_editor)
+
+```yaml
+polaris_map_editor: ^0.0.2
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, Feb 6, 2024 | [pub.dev](https://pub.dev/packages/polaris_map_editor)  [GitHub](https://github.com/cosmos-in-code/polaris_map_editor) | ^6.1.0 |
 
 ## Layers
 ### flutter_map_compass
