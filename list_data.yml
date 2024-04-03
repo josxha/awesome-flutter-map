@@ -41,6 +41,7 @@ tile_providers:
     - flutter_map_cancellable_tile_provider
     - flutter_map_cached_tile_provider
     - flutter_map_pmtiles
+    - mtmc
 
 file_support:
   name: File support
