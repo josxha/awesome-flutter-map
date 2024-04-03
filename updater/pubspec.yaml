@@ -11,4 +11,4 @@ dependencies:
   pub_semver: ^2.1.4
 
 dev_dependencies:
-  total_lints: ^2.19.0
+  total_lints: ^3.2.0

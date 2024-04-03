@@ -27,7 +27,7 @@ class PubDevService {
       version: packageVersion,
       description: info.description,
       homepage: info.latestPubspec.homepage,
-      repository: info.latestPubspec.repository,
+      repository: info.latestPubspec.repository(),
       lastUpdate: info.latest.published,
       flutterMapVersion: fmVersionConstraint,
       latestFlutterMapDependency: fmVersionConstraint?.allows(fmVersion),
@@ -44,6 +44,4 @@ extension PubspecExt on PubSpec {
     if (fmDep == null) return null;
     return VersionConstraint.parse(fmDep.toString().replaceAll('"', ''));
   }
-
-  String? get repository => unParsedYaml?['repository'];
 }
