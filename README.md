@@ -90,11 +90,11 @@ A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautif
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_marker_cluster) ![Pub Points](https://img.shields.io/pub/points/flutter_map_marker_cluster) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_marker_cluster)
 
 ```yaml
-flutter_map_marker_cluster: ^1.3.4
+flutter_map_marker_cluster: ^1.3.5
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Dec 5, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_marker_cluster)  [GitHub](https://github.com/lpongetti/flutter_map_marker_cluster) | >=6.0.0 <7.0.0 |
+| Sun, Mar 10, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_marker_cluster)  [GitHub](https://github.com/lpongetti/flutter_map_marker_cluster) | >=6.0.0 <7.0.0 |
 ### flutter_map_marker_popup
 Marker popups for flutter_map.
 
@@ -156,11 +156,11 @@ PolarisMapEditor is a library for creating map editors with a celestial touch, a
 ![Pub Likes](https://img.shields.io/pub/likes/polaris_map_editor) ![Pub Points](https://img.shields.io/pub/points/polaris_map_editor) ![Pub Popularity](https://img.shields.io/pub/popularity/polaris_map_editor)
 
 ```yaml
-polaris_map_editor: ^0.0.2
+polaris_map_editor: ^0.0.3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Feb 6, 2024 | [pub.dev](https://pub.dev/packages/polaris_map_editor)  [GitHub](https://github.com/cosmos-in-code/polaris_map_editor) | ^6.1.0 |
+| Wed, Mar 27, 2024 | [pub.dev](https://pub.dev/packages/polaris_map_editor)  [GitHub](https://github.com/cosmos-in-code/polaris_map_editor) | ^6.1.0 |
 
 ## Layers
 ### flutter_map_compass
@@ -310,6 +310,17 @@ flutter_map_pmtiles: ^1.0.3
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Sat, Feb 10, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_pmtiles)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^6.1.0 |
+### mtmc
+Map Tile Memory Caching is used to store flutter map tile images on the device memory
+
+![Pub Likes](https://img.shields.io/pub/likes/mtmc) ![Pub Points](https://img.shields.io/pub/points/mtmc) ![Pub Popularity](https://img.shields.io/pub/popularity/mtmc)
+
+```yaml
+mtmc: ^0.0.7
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Sat, Mar 30, 2024 | [pub.dev](https://pub.dev/packages/mtmc)  [GitHub](https://github.com/aminhm/map_tile_cahcing) | ^6.0.1 |
 
 ## File support
 ### geojson
@@ -329,11 +340,11 @@ Mapbox MBTiles v1.3 files, support for vector and raster tiles.
 ![Pub Likes](https://img.shields.io/pub/likes/mbtiles) ![Pub Points](https://img.shields.io/pub/points/mbtiles) ![Pub Popularity](https://img.shields.io/pub/popularity/mbtiles)
 
 ```yaml
-mbtiles: ^0.4.0
+mbtiles: ^0.4.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Feb 18, 2024 | [pub.dev](https://pub.dev/packages/mbtiles)  [GitHub](https://github.com/josxha/dart_mbtiles) | - |
+| Wed, Mar 20, 2024 | [pub.dev](https://pub.dev/packages/mbtiles)  [GitHub](https://github.com/josxha/dart_mbtiles) | - |
 ### power_geojson
 A Powerful tool for Geojson with flutter_map, styled from properties, supports esri json, soon supports multiple projection and coordinate systems
 
@@ -364,11 +375,11 @@ Animation utilities for markers and controls of the flutter_map package.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_animations) ![Pub Points](https://img.shields.io/pub/points/flutter_map_animations) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_animations)
 
 ```yaml
-flutter_map_animations: ^0.5.3
+flutter_map_animations: ^0.6.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Oct 24, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^6.0.1 |
+| Fri, Mar 22, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^6.1.0 |
 ### flutter_map_line_editor
 A basic Line and Polygon editor for `flutter_map` using drag markers
 
