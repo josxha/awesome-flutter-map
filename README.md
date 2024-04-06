@@ -169,11 +169,11 @@ A simple compass for flutter_map. It shows the rotation of the map and resets th
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_compass) ![Pub Points](https://img.shields.io/pub/points/flutter_map_compass) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_compass)
 
 ```yaml
-flutter_map_compass: ^1.0.1
+flutter_map_compass: ^1.0.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Fri, Feb 9, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_compass)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^6.1.0 |
+| Wed, Apr 3, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_compass)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^6.1.0 |
 ### flutter_map_heatmap
 A heatmap plugin for flutter_map
 
