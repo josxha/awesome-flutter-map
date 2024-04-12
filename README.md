@@ -156,11 +156,11 @@ PolarisMapEditor is a library for creating map editors with a celestial touch, a
 ![Pub Likes](https://img.shields.io/pub/likes/polaris_map_editor) ![Pub Points](https://img.shields.io/pub/points/polaris_map_editor) ![Pub Popularity](https://img.shields.io/pub/popularity/polaris_map_editor)
 
 ```yaml
-polaris_map_editor: ^0.0.3
+polaris_map_editor: ^0.0.4
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Wed, Mar 27, 2024 | [pub.dev](https://pub.dev/packages/polaris_map_editor)  [GitHub](https://github.com/cosmos-in-code/polaris_map_editor) | ^6.1.0 |
+| Tue, Apr 9, 2024 | [pub.dev](https://pub.dev/packages/polaris_map_editor)  [GitHub](https://github.com/cosmos-in-code/polaris_map_editor) | ^6.1.0 |
 
 ## Layers
 ### flutter_map_compass
@@ -391,6 +391,17 @@ flutter_map_line_editor: ^6.0.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Fri, Nov 3, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_line_editor)  [GitHub](https://github.com/ibrierley/flutter_map_line_editor) | - |
+### flutter_map_tile_caching
+Plugin for 'flutter_map' providing advanced caching functionality, with ability to download map regions for offline use.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_tile_caching) ![Pub Points](https://img.shields.io/pub/points/flutter_map_tile_caching) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_tile_caching)
+
+```yaml
+flutter_map_tile_caching: ^9.0.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Thu, Apr 11, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | ^6.1.0 |
 ### longpress_popup
 This Flutter package enhances flutter_map by providing an easy way to display a customizable popup widget whenever a user taps on a marker. With this plugin, you can add a personalized touch to your map by creating popups that include images, text, and buttons. You can also use the provided methods to programmatically show and hide popups. Overall, this package simplifies the process of adding interactivity to your maps and provides a seamless user experience.
 
