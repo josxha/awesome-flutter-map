@@ -68,11 +68,11 @@ This package parses GeoJson formatted spatial data and creates arrays of Flutter
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_geojson) ![Pub Points](https://img.shields.io/pub/points/flutter_map_geojson) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_geojson)
 
 ```yaml
-flutter_map_geojson: ^1.0.6
+flutter_map_geojson: ^1.0.8
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Oct 29, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_geojson)  [GitHub](https://github.com/jozes/flutter_map_geojson) | ^6.0.0 |
+| Fri, Apr 19, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_geojson)  [GitHub](https://github.com/jozes/flutter_map_geojson) | >=6.0.0 <8.0.0 |
 ### flutter_map_location_marker
 A flutter map plugin for displaying device current location.
 
