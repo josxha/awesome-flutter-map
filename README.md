@@ -397,11 +397,11 @@ Plugin for 'flutter_map' providing advanced caching functionality, with ability 
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_tile_caching) ![Pub Points](https://img.shields.io/pub/points/flutter_map_tile_caching) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_tile_caching)
 
 ```yaml
-flutter_map_tile_caching: ^9.0.0
+flutter_map_tile_caching: ^9.0.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Thu, Apr 11, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | ^6.1.0 |
+| Mon, Apr 29, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | ^6.1.0 |
 ### longpress_popup
 This Flutter package enhances flutter_map by providing an easy way to display a customizable popup widget whenever a user taps on a marker. With this plugin, you can add a personalized touch to your map by creating popups that include images, text, and buttons. You can also use the provided methods to programmatically show and hide popups. Overall, this package simplifies the process of adding interactivity to your maps and provides a seamless user experience.
 
