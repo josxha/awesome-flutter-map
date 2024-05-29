@@ -51,6 +51,17 @@ flutter_map_geojson: ^1.0.8
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Fri, Apr 19, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_geojson)  [GitHub](https://github.com/jozes/flutter_map_geojson) | >=6.0.0 <8.0.0 |
+### flutter_map_location_marker
+A flutter map plugin for displaying device current location.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_location_marker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_location_marker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_location_marker)
+
+```yaml
+flutter_map_location_marker: ^9.0.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, May 28, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_location_marker)  [GitHub](https://github.com/tlserver/flutter_map_location_marker) | ^7.0.0 |
 ### flutter_map_marker_cluster
 A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautiful animated marker clustering functionality for flutter_map.
 
@@ -75,6 +86,17 @@ line_animator: ^1.0.0+3
 | Thu, Jun 9, 2022 | [pub.dev](https://pub.dev/packages/line_animator)  [GitHub](https://github.com/ibrierley/line_animator) | - |
 
 ## Layers
+### flutter_map_compass
+A simple compass for flutter_map. It shows the rotation of the map and resets the rotation back to 0 when tapped.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_compass) ![Pub Points](https://img.shields.io/pub/points/flutter_map_compass) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_compass)
+
+```yaml
+flutter_map_compass: ^1.0.3
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, May 28, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_compass)  [GitHub](https://github.com/josxha/flutter_map_plugins) | >=6.0.0 <8.0.0 |
 ### flutter_map_heatmap
 A heatmap plugin for flutter_map
 
@@ -116,11 +138,22 @@ A slim yet powerful caching plugin for flutter_map tile layers.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cache) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cache) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cache)
 
 ```yaml
-flutter_map_cache: ^1.5.0
+flutter_map_cache: ^1.5.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, Feb 19, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_plugins) | <span style="color:red">^6.0.0 (not latest)</span> |
+| Tue, May 28, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_plugins) | >=6.0.0 <8.0.0 |
+### flutter_map_pmtiles
+PMTiles tile provider for flutter_map. It uses HTTP Range Requests to request tiles from a single local or hosted file.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_pmtiles) ![Pub Points](https://img.shields.io/pub/points/flutter_map_pmtiles) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_pmtiles)
+
+```yaml
+flutter_map_pmtiles: ^1.0.4
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, May 28, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_pmtiles)  [GitHub](https://github.com/josxha/flutter_map_plugins) | >=6.0.0 <8.0.0 |
 
 ## File support
 ### geojson
@@ -158,6 +191,17 @@ vector_mbtiles: ^0.0.5
 | Tue, Oct 18, 2022 | [pub.dev](https://pub.dev/packages/vector_mbtiles)  [GitHub](https://github.com/psytwo1/vector_mbtiles.git) | - |
 
 ## Utility
+### flutter_map_animations
+Animation utilities for markers and controls of the flutter_map package.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_animations) ![Pub Points](https://img.shields.io/pub/points/flutter_map_animations) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_animations)
+
+```yaml
+flutter_map_animations: ^0.7.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Mon, May 27, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_animations)  [GitHub](https://github.com/TesteurManiak/flutter_map_animations) | ^7.0.0 |
 ### flutter_map_line_editor
 A basic Line and Polygon editor for `flutter_map` using drag markers
 
@@ -169,6 +213,17 @@ flutter_map_line_editor: ^6.0.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Fri, Nov 3, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_line_editor)  [GitHub](https://github.com/ibrierley/flutter_map_line_editor) | - |
+### flutter_map_tile_caching
+Plugin for 'flutter_map' providing advanced caching functionality, with ability to download map regions for offline use.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_tile_caching) ![Pub Points](https://img.shields.io/pub/points/flutter_map_tile_caching) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_tile_caching)
+
+```yaml
+flutter_map_tile_caching: ^9.1.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Mon, May 27, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | ^7.0.0 |
 ### osrm
 Open Source Routing Machine (OSRM) client for Dart.
 
