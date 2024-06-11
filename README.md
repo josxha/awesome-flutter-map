@@ -73,6 +73,17 @@ flutter_map_marker_cluster: ^1.3.6
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Mon, May 6, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_marker_cluster)  [GitHub](https://github.com/lpongetti/flutter_map_marker_cluster) | <span style="color:red">>=6.0.0 <7.0.0 (not latest)</span> |
+### flutter_map_marker_popup
+Marker popups for flutter_map.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_marker_popup) ![Pub Points](https://img.shields.io/pub/points/flutter_map_marker_popup) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_marker_popup)
+
+```yaml
+flutter_map_marker_popup: ^7.0.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Mon, Jun 10, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [GitHub](https://github.com/rorystephenson/flutter_map_marker_popup) | ^7.0.0 |
 ### line_animator
 A Line Animator for Flutter
 
@@ -143,6 +154,17 @@ flutter_map_cache: ^1.5.1
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Tue, May 28, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_plugins) | >=6.0.0 <8.0.0 |
+### flutter_map_cancellable_tile_provider
+Plugin for flutter_map that provides a `TileProvider` with the capability to cancel unnecessary HTTP tile requests
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cancellable_tile_provider) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cancellable_tile_provider) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cancellable_tile_provider)
+
+```yaml
+flutter_map_cancellable_tile_provider: ^3.0.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Sat, Jun 8, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cancellable_tile_provider)  [Homepage](https://github.com/fleaflet/flutter_map)  [GitHub](https://github.com/fleaflet/flutter_map_cancellable_tile_provider) | ^7.0.0 |
 ### flutter_map_pmtiles
 PMTiles tile provider for flutter_map. It uses HTTP Range Requests to request tiles from a single local or hosted file.
 
