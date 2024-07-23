@@ -142,6 +142,19 @@ lat_lon_grid_plugin: ^0.2.7
 | ----------- | ----- | ------------------- |
 | Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/lat_lon_grid_plugin)  [Homepage](https://github.com/matthiasdittmer/)  [GitHub](https://github.com/matthiasdittmer/lat_lon_grid_plugin) | >=3.0.0 |
 
+## Online service integration
+### flutter_map_directions
+A Flutter project package to show directions path on flutter_map
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_directions) ![Pub Points](https://img.shields.io/pub/points/flutter_map_directions) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_directions)
+
+```yaml
+flutter_map_directions: ^0.0.6
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Mon, Jul 22, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_directions)  [GitHub](https://github.com/nkdkhanh46/flutter_map_directions) | ^7.0.2 |
+
 ## Tile Providers
 ### flutter_map_cache
 A slim yet powerful caching plugin for flutter_map tile layers.
