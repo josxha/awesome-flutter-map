@@ -154,6 +154,17 @@ flutter_map_directions: ^0.0.6
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Mon, Jul 22, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_directions)  [GitHub](https://github.com/nkdkhanh46/flutter_map_directions) | ^7.0.2 |
+### location_picker_flutter_map
+Package that provides Place search and Location picker for flutter maps with a lot of customizations using Open Street Map
+
+![Pub Likes](https://img.shields.io/pub/likes/location_picker_flutter_map) ![Pub Points](https://img.shields.io/pub/points/location_picker_flutter_map) ![Pub Popularity](https://img.shields.io/pub/popularity/location_picker_flutter_map)
+
+```yaml
+location_picker_flutter_map: ^3.1.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Mon, Aug 5, 2024 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | ^7.0.1 |
 
 ## Tile Providers
 ### flutter_map_cache
@@ -254,11 +265,11 @@ Plugin for 'flutter_map' providing advanced caching functionality, with ability 
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_tile_caching) ![Pub Points](https://img.shields.io/pub/points/flutter_map_tile_caching) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_tile_caching)
 
 ```yaml
-flutter_map_tile_caching: ^9.1.1
+flutter_map_tile_caching: ^9.1.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Jul 16, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | ^7.0.0 |
+| Wed, Aug 7, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | ^7.0.0 |
 ### osrm
 Open Source Routing Machine (OSRM) client for Dart.
 
