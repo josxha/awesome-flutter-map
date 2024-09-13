@@ -195,11 +195,11 @@ Plugin for flutter_map that provides a `TileProvider` with the capability to can
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cancellable_tile_provider) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cancellable_tile_provider) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cancellable_tile_provider)
 
 ```yaml
-flutter_map_cancellable_tile_provider: ^3.0.0
+flutter_map_cancellable_tile_provider: ^3.0.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sat, Jun 8, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cancellable_tile_provider)  [Homepage](https://github.com/fleaflet/flutter_map)  [GitHub](https://github.com/fleaflet/flutter_map_cancellable_tile_provider) | ^7.0.0 |
+| Thu, Sep 12, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_cancellable_tile_provider)  [Homepage](https://github.com/fleaflet/flutter_map)  [GitHub](https://github.com/fleaflet/flutter_map_cancellable_tile_provider) | ^7.0.2 |
 ### flutter_map_pmtiles
 PMTiles tile provider for flutter_map. It uses HTTP Range Requests to request tiles from a single local or hosted file.
 
