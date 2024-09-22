@@ -68,11 +68,11 @@ A Dart implementation of Leaflet.makercluster for Flutter apps. Provides beautif
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_marker_cluster) ![Pub Points](https://img.shields.io/pub/points/flutter_map_marker_cluster) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_marker_cluster)
 
 ```yaml
-flutter_map_marker_cluster: ^1.3.6
+flutter_map_marker_cluster: ^1.4.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, May 6, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_marker_cluster)  [GitHub](https://github.com/lpongetti/flutter_map_marker_cluster) | <span style="color:red">>=6.0.0 <7.0.0 (not latest)</span> |
+| Thu, Sep 19, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_marker_cluster)  [GitHub](https://github.com/lpongetti/flutter_map_marker_cluster) | >=7.0.0 <8.0.0 |
 ### flutter_map_marker_popup
 Marker popups for flutter_map.
 
