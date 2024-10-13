@@ -265,11 +265,11 @@ A basic Line and Polygon editor for `flutter_map` using drag markers
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_line_editor) ![Pub Points](https://img.shields.io/pub/points/flutter_map_line_editor) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_line_editor)
 
 ```yaml
-flutter_map_line_editor: ^6.0.0
+flutter_map_line_editor: ^7.0.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Fri, Nov 3, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_line_editor)  [GitHub](https://github.com/ibrierley/flutter_map_line_editor) | - |
+| Fri, Oct 11, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_line_editor)  [GitHub](https://github.com/ibrierley/flutter_map_line_editor) | - |
 ### flutter_map_tile_caching
 Plugin for 'flutter_map' providing advanced caching functionality, with ability to download map regions for offline use.
 
