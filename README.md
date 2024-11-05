@@ -119,6 +119,17 @@ flutter_map_heatmap: ^0.0.7
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Tue, Dec 19, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | <span style="color:red">^6.0.0 (not latest)</span> |
+### flutter_map_maplibre
+Performant Mapbox Vector Tiles (MVT) support for flutter_map powered by native MapLibre SDKs.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_maplibre) ![Pub Points](https://img.shields.io/pub/points/flutter_map_maplibre) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_maplibre)
+
+```yaml
+flutter_map_maplibre: ^0.0.1
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, Nov 5, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_maplibre)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^7.0.0 |
 ### flutter_map_polywidget
 flutter_map_polywidget is a flutter_map plugin for displaying any widget on the map.
 
@@ -235,6 +246,17 @@ mbtiles: ^0.4.2
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Fri, May 17, 2024 | [pub.dev](https://pub.dev/packages/mbtiles)  [GitHub](https://github.com/josxha/dart_mbtiles) | - |
+### power_geojson
+A Powerful tool for Geojson with flutter_map, styled from properties, supports esri json, soon supports multiple projection and coordinate systems
+
+![Pub Likes](https://img.shields.io/pub/likes/power_geojson) ![Pub Points](https://img.shields.io/pub/points/power_geojson) ![Pub Popularity](https://img.shields.io/pub/popularity/power_geojson)
+
+```yaml
+power_geojson: ^1.0.8+14
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Mon, Nov 4, 2024 | [pub.dev](https://pub.dev/packages/power_geojson)  [GitHub](https://github.com/ymrabti/power_geojson) | ^7.0.2 |
 ### vector_mbtiles
 VectorMB Tiles is a Flutter plugin for working with Mapbox Vector Tiles in FlutterMap.
 
