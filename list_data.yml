@@ -19,6 +19,7 @@ markers_polygons:
 layers:
   name: Layers
   entries:
+    - flutter_map_maplibre
     - vector_map_tiles
     - flutter_map_heatmap
     - lat_lon_grid_plugin
