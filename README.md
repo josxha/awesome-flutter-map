@@ -125,7 +125,7 @@ Performant Mapbox Vector Tiles (MVT) support for flutter_map powered by native M
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_maplibre) ![Pub Points](https://img.shields.io/pub/points/flutter_map_maplibre) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_maplibre)
 
 ```yaml
-flutter_map_maplibre: ^0.0.1
+flutter_map_maplibre: ^0.0.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
