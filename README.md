@@ -292,6 +292,17 @@ flutter_map_line_editor: ^7.0.0
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Fri, Oct 11, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_line_editor)  [GitHub](https://github.com/ibrierley/flutter_map_line_editor) | - |
+### flutter_map_math
+Map realated calculations in one place. Like finding distance, mid point, bearing angle of two points.And finding destination point.Also convert degrees to radians and vice-versa
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_math) ![Pub Points](https://img.shields.io/pub/points/flutter_map_math) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_math)
+
+```yaml
+flutter_map_math: ^0.1.7
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, Dec 12, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_math)  [GitHub](https://github.com/Ujjwalsharma2210/flutter_map_math) | - |
 ### flutter_map_tile_caching
 Plugin for 'flutter_map' providing advanced caching functionality, with ability to download map regions for offline use.
 
