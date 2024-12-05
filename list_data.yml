@@ -64,4 +64,5 @@ utility:
     - flutter_map_line_editor
     - polybool
     - osrm
+    - flutter_map_math
     
