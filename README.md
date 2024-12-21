@@ -114,11 +114,11 @@ A heatmap plugin for flutter_map
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_heatmap) ![Pub Points](https://img.shields.io/pub/points/flutter_map_heatmap) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_heatmap)
 
 ```yaml
-flutter_map_heatmap: ^0.0.7
+flutter_map_heatmap: ^0.0.8
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Dec 19, 2023 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | <span style="color:red">^6.0.0 (not latest)</span> |
+| Thu, Dec 19, 2024 | [pub.dev](https://pub.dev/packages/flutter_map_heatmap)  [GitHub](https://github.com/tprebs/fluttermap_heatmap) | >=7.0.0 <8.0.0 |
 ### flutter_map_maplibre
 Performant Mapbox Vector Tiles (MVT) support for flutter_map powered by native MapLibre SDKs.
 
