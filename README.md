@@ -114,11 +114,11 @@ Performant Mapbox Vector Tiles (MVT) support for flutter_map powered by native M
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_maplibre) ![Pub Points](https://img.shields.io/pub/points/flutter_map_maplibre) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_maplibre)
 
 ```yaml
-flutter_map_maplibre: ^0.0.3
+flutter_map_maplibre: ^0.0.4
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Wed, Feb 5, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_maplibre)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^8.0.0 |
+| Wed, Feb 19, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_maplibre)  [GitHub](https://github.com/josxha/flutter_map_plugins) | ^8.0.0 |
 ### lat_lon_grid_plugin
 Adds a latitude / longitude grid as plugin to the [flutter_map](https://github.com/fleaflet/flutter_map/).
 
