@@ -252,11 +252,11 @@ Plugin for 'flutter_map' providing advanced caching functionality, with ability 
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_tile_caching) ![Pub Points](https://img.shields.io/pub/points/flutter_map_tile_caching) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_tile_caching)
 
 ```yaml
-flutter_map_tile_caching: ^10.1.0
+flutter_map_tile_caching: ^10.1.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Feb 2, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | ^8.0.0 |
+| Sun, Mar 9, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | ^8.1.1 |
 ### osrm
 Open Source Routing Machine (OSRM) client for Dart.
 
