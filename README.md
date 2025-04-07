@@ -24,11 +24,11 @@ Dragmarker class for flutter_map
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_dragmarker) ![Pub Points](https://img.shields.io/pub/points/flutter_map_dragmarker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_dragmarker)
 
 ```yaml
-flutter_map_dragmarker: ^8.0.2
+flutter_map_dragmarker: ^8.0.3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, Mar 10, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_dragmarker)  [GitHub](https://github.com/ibrierley/flutter_map_dragmarker) | ^8.0.0 |
+| Mon, Apr 7, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_dragmarker)  [GitHub](https://github.com/ibrierley/flutter_map_dragmarker) | ^8.0.0 |
 ### flutter_map_floating_marker_titles
 Floating Map Marker Titles for flutter_map
 
