@@ -149,11 +149,11 @@ A slim yet powerful caching plugin for flutter_map tile layers.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_cache) ![Pub Points](https://img.shields.io/pub/points/flutter_map_cache) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_cache)
 
 ```yaml
-flutter_map_cache: ^2.0.0
+flutter_map_cache: ^2.0.0+1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Apr 6, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_plugins) | >=6.0.0 <9.0.0 |
+| Fri, Apr 18, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_cache)  [GitHub](https://github.com/josxha/flutter_map_plugins) | >=6.0.0 <9.0.0 |
 ### flutter_map_cancellable_tile_provider
 Plugin for flutter_map that provides a `TileProvider` with the capability to cancel unnecessary HTTP tile requests
 
