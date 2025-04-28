@@ -79,11 +79,11 @@ Marker popups for flutter_map.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_marker_popup) ![Pub Points](https://img.shields.io/pub/points/flutter_map_marker_popup) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_marker_popup)
 
 ```yaml
-flutter_map_marker_popup: ^8.0.0
+flutter_map_marker_popup: ^8.0.1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Apr 27, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [GitHub](https://github.com/rorystephenson/flutter_map_marker_popup) | ^8.0.0 |
+| Mon, Apr 28, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [GitHub](https://github.com/rorystephenson/flutter_map_marker_popup) | ^8.0.0 |
 ### line_animator
 A Line Animator for Flutter
 
