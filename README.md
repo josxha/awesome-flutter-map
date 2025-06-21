@@ -35,11 +35,11 @@ Floating Map Marker Titles for flutter_map
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_floating_marker_titles) ![Pub Points](https://img.shields.io/pub/points/flutter_map_floating_marker_titles) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_floating_marker_titles)
 
 ```yaml
-flutter_map_floating_marker_titles: ^1.3.0
+flutter_map_floating_marker_titles: ^1.4.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Mar 4, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_floating_marker_titles)  [GitHub](https://github.com/androidseb/flutter_map_floating_marker_titles) | ^8.0.0 |
+| Sat, Jun 21, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_floating_marker_titles)  [GitHub](https://github.com/androidseb/flutter_map_floating_marker_titles) | ^8.0.0 |
 ### flutter_map_geojson
 This package parses GeoJson formatted spatial data and creates arrays of Flutter Map objects using default or custom defined create functions.
 
