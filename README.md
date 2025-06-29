@@ -241,11 +241,11 @@ Map realated calculations in one place. Like finding distance, mid point, bearin
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_math) ![Pub Points](https://img.shields.io/pub/points/flutter_map_math) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_math)
 
 ```yaml
-flutter_map_math: ^0.2.3
+flutter_map_math: ^0.2.4
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Wed, Jun 18, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_math)  [GitHub](https://github.com/Ujjwalsharma2210/flutter_map_math) | - |
+| Sat, Jun 28, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_math)  [GitHub](https://github.com/Ujjwalsharma2210/flutter_map_math) | - |
 ### flutter_map_tile_caching
 Plugin for 'flutter_map' providing advanced caching functionality, with ability to download map regions for offline use.
 
