@@ -84,6 +84,17 @@ flutter_map_marker_popup: ^8.0.1
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Mon, Apr 28, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [GitHub](https://github.com/rorystephenson/flutter_map_marker_popup) | ^8.0.0 |
+### flutter_map_polygon_editor
+Polygon and polyline editor for Flutter Map with drag markers and customizable styling.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_map_polygon_editor) ![Pub Points](https://img.shields.io/pub/points/flutter_map_polygon_editor) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_polygon_editor)
+
+```yaml
+flutter_map_polygon_editor: ^0.1.1
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Thu, Jul 10, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_polygon_editor)  [GitHub](https://github.com/tdz4/flutter_map_polygon_editor) | ^8.1.1 |
 ### line_animator
 A Line Animator for Flutter
 
