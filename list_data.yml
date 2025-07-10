@@ -15,6 +15,7 @@ markers_polygons:
     - flutter_map_supercluster
     - nav_marker
     - polaris_map_editor
+    - flutter_map_polygon_editor
 
 layers:
   name: Layers
