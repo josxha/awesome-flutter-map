@@ -79,11 +79,11 @@ Marker popups for flutter_map.
 ![Pub Likes](https://img.shields.io/pub/likes/flutter_map_marker_popup) ![Pub Points](https://img.shields.io/pub/points/flutter_map_marker_popup) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_map_marker_popup)
 
 ```yaml
-flutter_map_marker_popup: ^8.0.1
+flutter_map_marker_popup: ^8.1.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Mon, Apr 28, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [GitHub](https://github.com/rorystephenson/flutter_map_marker_popup) | ^8.0.0 |
+| Thu, Aug 28, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_marker_popup)  [GitHub](https://github.com/rorystephenson/flutter_map_marker_popup) | ^8.2.0 |
 ### flutter_map_polygon_editor
 Polygon and polyline editor for Flutter Map with drag markers and customizable styling.
 
