@@ -153,6 +153,19 @@ lat_lon_grid_plugin: ^0.2.7
 | ----------- | ----- | ------------------- |
 | Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/lat_lon_grid_plugin)  [Homepage](https://github.com/matthiasdittmer/)  [GitHub](https://github.com/matthiasdittmer/lat_lon_grid_plugin) | >=3.0.0 |
 
+## Online service integration
+### location_picker_flutter_map
+Package that provides Place search and Location picker for flutter maps with a lot of customizations using Open Street Map
+
+![Pub Likes](https://img.shields.io/pub/likes/location_picker_flutter_map) ![Pub Points](https://img.shields.io/pub/points/location_picker_flutter_map) ![Pub Popularity](https://img.shields.io/pub/popularity/location_picker_flutter_map)
+
+```yaml
+location_picker_flutter_map: ^4.1.0
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Fri, Sep 5, 2025 | [pub.dev](https://pub.dev/packages/location_picker_flutter_map)  [GitHub](https://github.com/Michael-M-aher/location_picker_flutter_map) | ^8.2.1 |
+
 ## Tile Providers
 ### flutter_map_cache
 A slim yet powerful caching plugin for flutter_map tile layers.
