@@ -219,11 +219,11 @@ Mapbox MBTiles v1.3 files, support for vector and raster tiles.
 ![Pub Likes](https://img.shields.io/pub/likes/mbtiles) ![Pub Points](https://img.shields.io/pub/points/mbtiles) ![Pub Popularity](https://img.shields.io/pub/popularity/mbtiles)
 
 ```yaml
-mbtiles: ^0.4.2
+mbtiles: ^0.5.0
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Fri, May 17, 2024 | [pub.dev](https://pub.dev/packages/mbtiles)  [GitHub](https://github.com/josxha/dart_mbtiles) | - |
+| Fri, Feb 20, 2026 | [pub.dev](https://pub.dev/packages/mbtiles)  [GitHub](https://github.com/josxha/dart_mbtiles) | - |
 ### power_geojson
 A Powerful tool for Geojson with flutter_map, styled from properties, supports esri json, soon supports multiple projection and coordinate systems
 
