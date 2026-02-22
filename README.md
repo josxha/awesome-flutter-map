@@ -230,11 +230,11 @@ A Powerful tool for Geojson with flutter_map, styled from properties, supports e
 ![Pub Likes](https://img.shields.io/pub/likes/power_geojson) ![Pub Points](https://img.shields.io/pub/points/power_geojson) ![Pub Popularity](https://img.shields.io/pub/popularity/power_geojson)
 
 ```yaml
-power_geojson: ^3.38.9
+power_geojson: ^3.41.2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Feb 15, 2026 | [pub.dev](https://pub.dev/packages/power_geojson)  [GitHub](https://github.com/youmtinetflutterpacks/power_geojson) | ^8.2.2 |
+| Sun, Feb 22, 2026 | [pub.dev](https://pub.dev/packages/power_geojson)  [GitHub](https://github.com/youmtinetflutterpacks/power_geojson) | ^8.2.2 |
 ### vector_mbtiles
 VectorMB Tiles is a Flutter plugin for working with Mapbox Vector Tiles in FlutterMap.
 
