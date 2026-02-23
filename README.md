@@ -292,6 +292,17 @@ flutter_map_tile_caching: ^10.1.1
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
 | Sun, Mar 9, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | ^8.1.1 |
+### longpress_popup
+This Flutter package extends flutter_map to easily show customizable popups when markers are long-pressed. It lets you add images, text, and buttons, and provides methods to programmatically show or hide popups—making map interactions simple and seamless.
+
+![Pub Likes](https://img.shields.io/pub/likes/longpress_popup) ![Pub Points](https://img.shields.io/pub/points/longpress_popup) ![Pub Popularity](https://img.shields.io/pub/popularity/longpress_popup)
+
+```yaml
+longpress_popup: ^3.0.2
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Sun, Feb 22, 2026 | [pub.dev](https://pub.dev/packages/longpress_popup)  [Homepage](https://github.com/ymrabti)  [GitHub](https://github.com/ymrabti/fluttermap_markerpopup) | ^8.2.2 |
 ### osrm
 Open Source Routing Machine (OSRM) client for Dart.
 
