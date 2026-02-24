@@ -230,11 +230,11 @@ A Powerful tool for Geojson with flutter_map, styled from properties, supports e
 ![Pub Likes](https://img.shields.io/pub/likes/power_geojson) ![Pub Points](https://img.shields.io/pub/points/power_geojson) ![Pub Popularity](https://img.shields.io/pub/popularity/power_geojson)
 
 ```yaml
-power_geojson: ^3.41.2
+power_geojson: ^3.41.3+1
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Feb 22, 2026 | [pub.dev](https://pub.dev/packages/power_geojson)  [GitHub](https://github.com/youmtinetflutterpacks/power_geojson) | ^8.2.2 |
+| Tue, Feb 24, 2026 | [pub.dev](https://pub.dev/packages/power_geojson)  [Homepage](https://power-geojson-demo.youmti.net/)  [GitHub](https://github.com/youmtinetflutterpacks/power_geojson) | ^8.2.2 |
 ### vector_mbtiles
 VectorMB Tiles is a Flutter plugin for working with Mapbox Vector Tiles in FlutterMap.
 
@@ -293,16 +293,16 @@ flutter_map_tile_caching: ^10.1.1
 | ----------- | ----- | ------------------- |
 | Sun, Mar 9, 2025 | [pub.dev](https://pub.dev/packages/flutter_map_tile_caching)  [GitHub](https://github.com/JaffaKetchup/flutter_map_tile_caching) | ^8.1.1 |
 ### longpress_popup
-This Flutter package extends flutter_map to easily show customizable popups when markers are long-pressed. It lets you add images, text, and buttons, and provides methods to programmatically show or hide popups—making map interactions simple and seamless.
+This Flutter package extends flutter_map to easily show customizable popups when markers are long-pressed.
 
 ![Pub Likes](https://img.shields.io/pub/likes/longpress_popup) ![Pub Points](https://img.shields.io/pub/points/longpress_popup) ![Pub Popularity](https://img.shields.io/pub/popularity/longpress_popup)
 
 ```yaml
-longpress_popup: ^3.0.2
+longpress_popup: ^3.0.3+2
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Sun, Feb 22, 2026 | [pub.dev](https://pub.dev/packages/longpress_popup)  [Homepage](https://github.com/ymrabti)  [GitHub](https://github.com/ymrabti/fluttermap_markerpopup) | ^8.2.2 |
+| Tue, Feb 24, 2026 | [pub.dev](https://pub.dev/packages/longpress_popup)  [Homepage](https://longpress-popup-demo.youmti.net/)  [GitHub](https://github.com/ymrabti/fluttermap_markerpopup) | ^8.2.2 |
 ### osrm
 Open Source Routing Machine (OSRM) client for Dart.
 
