@@ -230,11 +230,11 @@ A Powerful tool for Geojson with flutter_map, styled from properties, supports e
 ![Pub Likes](https://img.shields.io/pub/likes/power_geojson) ![Pub Points](https://img.shields.io/pub/points/power_geojson) ![Pub Popularity](https://img.shields.io/pub/popularity/power_geojson)
 
 ```yaml
-power_geojson: ^3.41.3+1
+power_geojson: ^3.41.3+3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Feb 24, 2026 | [pub.dev](https://pub.dev/packages/power_geojson)  [Homepage](https://power-geojson-demo.youmti.net/)  [GitHub](https://github.com/youmtinetflutterpacks/power_geojson) | ^8.2.2 |
+| Tue, Feb 24, 2026 | [pub.dev](https://pub.dev/packages/power_geojson)  [Homepage](https://power-geojson-demo.youmti.net)  [GitHub](https://github.com/youmtinetflutterpacks/power_geojson) | ^8.2.2 |
 ### vector_mbtiles
 VectorMB Tiles is a Flutter plugin for working with Mapbox Vector Tiles in FlutterMap.
 
@@ -298,11 +298,11 @@ This Flutter package extends flutter_map to easily show customizable popups when
 ![Pub Likes](https://img.shields.io/pub/likes/longpress_popup) ![Pub Points](https://img.shields.io/pub/points/longpress_popup) ![Pub Popularity](https://img.shields.io/pub/popularity/longpress_popup)
 
 ```yaml
-longpress_popup: ^3.0.3+2
+longpress_popup: ^3.0.3+3
 ```
 | Last update | Links | flutter_map version |
 | ----------- | ----- | ------------------- |
-| Tue, Feb 24, 2026 | [pub.dev](https://pub.dev/packages/longpress_popup)  [Homepage](https://longpress-popup-demo.youmti.net/)  [GitHub](https://github.com/ymrabti/fluttermap_markerpopup) | ^8.2.2 |
+| Tue, Feb 24, 2026 | [pub.dev](https://pub.dev/packages/longpress_popup)  [Homepage](https://longpress-popup-demo.youmti.net)  [GitHub](https://github.com/ymrabti/fluttermap_markerpopup) | ^8.2.2 |
 ### osrm
 Open Source Routing Machine (OSRM) client for Dart.
 
