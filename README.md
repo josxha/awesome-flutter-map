@@ -154,6 +154,17 @@ lat_lon_grid_plugin: ^0.2.7
 | Sun, Jun 4, 2023 | [pub.dev](https://pub.dev/packages/lat_lon_grid_plugin)  [Homepage](https://github.com/matthiasdittmer/)  [GitHub](https://github.com/matthiasdittmer/lat_lon_grid_plugin) | >=3.0.0 |
 
 ## Online service integration
+### flutter_google_location_picker
+A flutter plugin helps to search or pick location picker from map. It is completely free and easy to use.
+
+![Pub Likes](https://img.shields.io/pub/likes/flutter_google_location_picker) ![Pub Points](https://img.shields.io/pub/points/flutter_google_location_picker) ![Pub Popularity](https://img.shields.io/pub/popularity/flutter_google_location_picker)
+
+```yaml
+flutter_google_location_picker: ^0.0.6
+```
+| Last update | Links | flutter_map version |
+| ----------- | ----- | ------------------- |
+| Tue, Apr 21, 2026 | [pub.dev](https://pub.dev/packages/flutter_google_location_picker)  [Homepage](https://github.com/arsarsars1/flutter_google_location_picker)  [GitHub](https://github.com/arsarsars1/flutter_google_location_picker.git) | ^8.3.0 |
 ### location_picker_flutter_map
 Package that provides Place search and Location picker for flutter maps with a lot of customizations using Open Street Map
 
