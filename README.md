@@ -1,3 +1,7 @@
+> [!WARNING]  
+> This project is deprecated.
+> You can find a list of plugins in the flutter_map docs: https://docs.fleaflet.dev/plugins/list
+
 <!-- This file contains generated code. Do not change this file directly unless you know what you do. -->
 
 # Awesome Flutter Map
