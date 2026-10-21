@@ -11,7 +11,7 @@ jobs:
       - name: Checkout git repository
         uses: actions/checkout@v7
       - name: Install dart
-        uses: dart-lang/setup-dart@v1
+        uses: dart-lang/setup-dart@v1.7.2
       - name: Install dart dependencies
         working-directory: updater
         run: dart pub get
